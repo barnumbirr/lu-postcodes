@@ -1,8 +1,8 @@
 Luxembourg's Postcodes
 ======================
 
-CSV, JSON and XML dump of Luxembourg's postcodes (as of January 1st 2016).
-All data taken from [Post Luxembourg](http://www.post.lu/).
+CSV, JSON and XML dump of Luxembourg's postcodes (as of February 5th 2018).
+All data taken from [Post Luxembourg](https://www.postgroup.lu/documents/10181/2314854/BrochureCodesPostaux.pdf).
 
 ## Contributing:
 

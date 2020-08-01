@@ -1,800 +1,1178 @@
 [
   {
-    "Postcode": 101,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-GARE (PACK UP)",
+    "Postcode": "0101",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-GARE (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 121,
-    "Street": "24/24 CLOCHE D'OR (PACK UP)",
+    "Postcode": "0121",
+    "Street": "24/24 CLOCHE D'OR (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 123,
-    "Street": "HAMM (PACK UP CENTRE DE DISTRIBUTION)",
+    "Postcode": "0124",
+    "Street": "24/24 HAMM (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 124,
-    "Street": "24/24 HAMM (PACK UP)",
+    "Postcode": "0125",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-CENTRE HOSPITALIER (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 125,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-CENTRE HOSPITALIER (PACK UP)",
+    "Postcode": "0131",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-BONNEVOIE (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 131,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-BONNEVOIE (PACK UP)",
+    "Postcode": "0133",
+    "Street": "24/24 CARGOCENTER (PACKUP)",
+    "Town": "SENNINGERBERG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0141",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-HOLLERICH (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 132,
-    "Street": "ASSURANCES PAUL HENGEN (PACK UP)",
+    "Postcode": "0142",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-BELAIR (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 141,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-HOLLERICH (PACK UP)",
+    "Postcode": "0143",
+    "Street": "Q8 EICH (PACKUP STATION-SERVICE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 142,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-BELAIR (PACK UP)",
+    "Postcode": "0144",
+    "Street": "24/24 Q8 EICH (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 143,
-    "Street": "Q8 EICH (PACK UP STATION-SERVICE)",
+    "Postcode": "0161",
+    "Street": "24/24 LUXEMBOURG GARE 1 (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 161,
-    "Street": "24/24 GARE (PACK UP)",
+    "Postcode": "0171",
+    "Street": "PACKUP STATION-SERVICE Q8 PULVERMUEHL",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 171,
-    "Street": "Q8 HAMM (PACK UP STATION-SERVICE)",
+    "Postcode": "0173",
+    "Street": "24/24 PULVERMUEHLE (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 172,
-    "Street": "POSTSHOP KIRCHBERG (PACK UP)",
+    "Postcode": "0181",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-PARLEMENT EUROPEEN (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 173,
-    "Street": "24/24 PULVERMUEHLE (PACK UP)",
+    "Postcode": "0182",
+    "Street": "VENTE LUXEMBOURG-KIRCHBERG (PACKUP POINT DE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 181,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-PARLEMENT EUROPEEN (PACK UP)",
+    "Postcode": "0183",
+    "Street": "24/24 INDOOR POINT DE VENTE LUXEMBOURG-KIRCHBERG (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 191,
-    "Street": "Q8 RTE DE LONGWY (PACK UP STATION-SERVICE)",
+    "Postcode": "0191",
+    "Street": "Q8 RTE DE LONGWY (PACKUP STATION-SERVICE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 202,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-CENTRE (PACK UP)",
+    "Postcode": "0192",
+    "Street": "24/24 Q8 MERL (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 211,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-EICH (PACK UP)",
+    "Postcode": "0202",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-CENTRE (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 212,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-KIRCHBERG (PACK UP)",
+    "Postcode": "0211",
+    "Street": "BUREAU DE POSTE LUXEMBOURG-EICH (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 231,
-    "Street": "BUREAU DE POSTE LUXEMOURG-LIMPERTSBERG (PACK UP)",
+    "Postcode": "0213",
+    "Street": "24/24 PASSAGE LOUVIGNY (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 241,
-    "Street": "24/24 ROLLINGERGRUND (PACK UP)",
+    "Postcode": "0231",
+    "Street": "BUREAU DE POSTE LUXEMOURG-LIMPERTSBERG (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 262,
-    "Street": "Q8 RTE DE THIONVILLE (PACK UP STATION-SERVICE)",
+    "Postcode": "0241",
+    "Street": "24/24 ROLLINGERGRUND (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 271,
-    "Street": "BUREAU DE POSTE LUXEMBOURG-MONNET (PACK UP)",
+    "Postcode": "0242",
+    "Street": "24/24 LUXEMBOURG GARE 2 (PACKUP)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 291,
-    "Street": "POSTSHOP TELEBOUTIQUE CLOCHE D'OR (PACK UP)",
+    "Postcode": "0243",
+    "Street": "PACKUP ESPACE POST LUX. GARE",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 321,
-    "Street": "BUREAU DE POSTE BETTEMBOURG (PACK UP)",
+    "Postcode": "0251",
+    "Street": "24/24 CACTUS HOWALD (PACKUP)",
+    "Town": "HOWALD",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0252",
+    "Street": "POINT POST CACTUS HOBBI HOWALD (PACKUP)",
+    "Town": "HOWALD",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0262",
+    "Street": "Q8 RTE DE THIONVILLE (PACKUP STATION-SERVICE)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0263",
+    "Street": "24/24 Q8 BONNEVOIE (PACKUP)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0264",
+    "Street": "24/24 FINDEL BUSINESS CENTER (PACKUP)",
+    "Town": "FINDEL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0291",
+    "Street": "POSTSHOP TELEBOUTIQUE CLOCHE D'OR (PACKUP)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0321",
+    "Street": "BUREAU DE POSTE BETTEMBOURG (PACKUP)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 322,
-    "Street": "24/24 BETTEMBOURG (PACK UP)",
+    "Postcode": "0322",
+    "Street": "24/24 BETTEMBOURG (PACKUP)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 323,
-    "Street": "Q8 (PACK UP STATION-SERVICE)",
+    "Postcode": "0323",
+    "Street": "Q8 (PACKUP STATION-SERVICE)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 324,
-    "Street": "CT BETTEMBOURG (PACK UP 24/24)",
+    "Postcode": "0324",
+    "Street": "CT BETTEMBOURG (PACKUP 24/24)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 325,
-    "Street": "CT BETTEMBOURG (PACK UP)",
+    "Postcode": "0325",
+    "Street": "CT BETTEMBOURG (PACKUP)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 342,
-    "Street": "24/24 DUDELANGE (PACK UP)",
+    "Postcode": "0332",
+    "Street": "24/24 STATION-SERVICE TOTAL (PACKUP)",
+    "Town": "LIVANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0334",
+    "Street": "24/24 Q8 LEUDELANGE (PACKUP)",
+    "Town": "LEUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0341",
+    "Street": "BUREAU DE POSTE DUDELANGE (PACKUP)",
     "Town": "DUDELANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 361,
-    "Street": "BUREAU DE POSTE KAYL (PACK UP)",
+    "Postcode": "0342",
+    "Street": "24/24 DUDELANGE (PACKUP)",
+    "Town": "DUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0351",
+    "Street": "24/24 Q8 DUDELANGE (PACKUP)",
+    "Town": "DUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0361",
+    "Street": "BUREAU DE POSTE KAYL (PACKUP)",
     "Town": "KAYL",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 362,
-    "Street": "24/24 KAYL (PACK UP)",
+    "Postcode": "0362",
+    "Street": "24/24 KAYL (PACKUP)",
     "Town": "KAYL",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 372,
-    "Street": "BUREAU DE POSTE RUMELANGE (PACK UP)",
+    "Postcode": "0363",
+    "Street": "24/24 KAYL CACTUS (PACKUP)",
+    "Town": "KAYL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0372",
+    "Street": "BUREAU DE POSTE RUMELANGE (PACKUP)",
     "Town": "RUMELANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 381,
-    "Street": "24/24 SCHIFFLANGE (PACK UP)",
+    "Postcode": "0381",
+    "Street": "24/24 SCHIFFLANGE (PACKUP)",
     "Town": "SCHIFFLANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 382,
-    "Street": "BUREAU DE POSTE SCHIFFLANGE (PACK UP)",
+    "Postcode": "0382",
+    "Street": "BUREAU DE POSTE SCHIFFLANGE (PACKUP)",
     "Town": "SCHIFFLANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 383,
-    "Street": "TABAC (PACK UP ESPACE)",
-    "Town": "FOETZ",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 391,
-    "Street": "BUREAU DE POSTE MONDERCANGE (PACK UP)",
+    "Postcode": "0391",
+    "Street": "BUREAU DE POSTE MONDERCANGE (PACKUP)",
     "Town": "MONDERCANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 401,
-    "Street": "BUREAU DE POSTE ESCH-CENTRE (PACK UP)",
+    "Postcode": "0401",
+    "Street": "BUREAU DE POSTE ESCH-CENTRE (PACKUP)",
     "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 402,
-    "Street": "BUREAU DE POSTE ESCH-NORD (PACK UP)",
+    "Postcode": "0402",
+    "Street": "BUREAU DE POSTE ESCH-NORD (PACKUP)",
     "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 403,
-    "Street": "PAPETERIE-LIBRAIRIE CLAIR-CHENE (PACK UP)",
+    "Postcode": "0404",
+    "Street": "24/24 STATION-SERVICE ESSO RUE D'AUDUN (PACKUP)",
     "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 421,
-    "Street": "24/24 ESCH-SUR-ALZETTE (PACK UP)",
+    "Postcode": "0405",
+    "Street": "24/24 STATION-SERVICE ESSO BD CH. GAULLE (PACKUP)",
     "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 441,
-    "Street": "24/24 BELVAUX (PACK UP)",
+    "Postcode": "0406",
+    "Street": "ESSO BD CH. GAULLE (PACKUP STATION-SERVICE)",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0411",
+    "Street": "24/24 Q8 ESCH MONKELER (PACKUP)",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0412",
+    "Street": "RELAIS Q8 ESCH MONKELER (PACKUP)",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0421",
+    "Street": "24/24 ESCH-SUR-ALZETTE (PACKUP)",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0422",
+    "Street": "24/24 CACTUS ESCH/LALLANGE (PACKUP)",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0441",
+    "Street": "24/24 BELVAUX (PACKUP)",
     "Town": "BELVAUX",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 442,
-    "Street": "LIBRAIRIE DE L'ECOLE (PACK UP)",
+    "Postcode": "0443",
+    "Street": "BUREAU DE POSTE BELVAUX (PACKUP)",
     "Town": "BELVAUX",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 443,
-    "Street": "BUREAU DE POSTE BELVAUX (PACK UP)",
-    "Town": "BELVAUX",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 445,
-    "Street": "24/24 SOLEUVRE (PACK UP)",
+    "Postcode": "0445",
+    "Street": "24/24 SOLEUVRE (PACKUP)",
     "Town": "SOLEUVRE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 446,
-    "Street": "POSTSHOP SOLEUVRE (PACK UP)",
+    "Postcode": "0446",
+    "Street": "POSTSHOP SOLEUVRE (PACKUP)",
     "Town": "SOLEUVRE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 451,
-    "Street": "BUREAU DE POSTE OBERKORN (PACK UP)",
+    "Postcode": "0451",
+    "Street": "BUREAU DE POSTE OBERKORN (PACKUP)",
     "Town": "OBERKORN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 453,
-    "Street": "BUREAU DE POSTE DIFFERDANGE (PACK UP)",
+    "Postcode": "0453",
+    "Street": "BUREAU DE POSTE DIFFERDANGE (PACKUP)",
     "Town": "DIFFERDANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 461,
-    "Street": "MAGASIN POULLIG (PACK UP)",
-    "Town": "NIEDERKORN",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 462,
-    "Street": "STATION-SERVICE ESSO (PACK UP)",
+    "Postcode": "0462",
+    "Street": "STATION-SERVICE ESSO (PACKUP)",
     "Town": "DIFFERDANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 463,
-    "Street": "STATION-SERVICE ARAL (PACK UP)",
+    "Postcode": "0463",
+    "Street": "STATION-SERVICE ARAL (PACKUP)",
     "Town": "DIFFERDANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 464,
-    "Street": "BUREAU DE POSTE NIEDERKORN (PACK UP)",
-    "Town": "NIEDERKORN",
+    "Postcode": "0465",
+    "Street": "SHOPPI DIFFERDANGE (PACKUP POINT POST)",
+    "Town": "DIFFERDANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 471,
-    "Street": "BUREAU DE POSTE PETANGE (PACK UP)",
+    "Postcode": "0466",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
+    "Town": "DIFFERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0471",
+    "Street": "BUREAU DE POSTE PETANGE (PACKUP)",
     "Town": "PETANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 481,
-    "Street": "STATION-SERVICE ESSO (PACK UP)",
+    "Postcode": "0472",
+    "Street": "24/24 CACTUS PETANGE (PACKUP)",
+    "Town": "PETANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0481",
+    "Street": "STATION-SERVICE ESSO (PACKUP)",
     "Town": "RODANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 482,
-    "Street": "BUREAU DE POSTE RODANGE (PACK UP)",
+    "Postcode": "0482",
+    "Street": "BUREAU DE POSTE RODANGE (PACKUP)",
     "Town": "RODANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 491,
-    "Street": "STATION-SERVICE Q8 (PACK UP)",
+    "Postcode": "0491",
+    "Street": "STATION-SERVICE Q8 (PACKUP)",
     "Town": "SCHOUWEILER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 492,
-    "Street": "LIBRAIRIE GEKA (PACK UP)",
-    "Town": "CLEMENCY",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 493,
-    "Street": "BUREAU DE POSTE BASCHARAGE-GUICHETS (PACK UP)",
+    "Postcode": "0493",
+    "Street": "BUREAU DE POSTE BASCHARAGE-GUICHETS (PACKUP)",
     "Town": "BASCHARAGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 494,
-    "Street": "24/24 BASCHARAGE (PACK UP)",
+    "Postcode": "0494",
+    "Street": "24/24 BASCHARAGE (PACKUP)",
     "Town": "BASCHARAGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 521,
-    "Street": "BUREAU DE POSTE SANDWEILER (PACK UP)",
+    "Postcode": "0495",
+    "Street": "24/24 CACTUS BASCHARAGE (PACKUP)",
+    "Town": "BASCHARAGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0496",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
+    "Town": "BASCHARAGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0497",
+    "Street": "24/24 Q8 SCHOUWEILER (PACKUP)",
+    "Town": "SCHOUWEILER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0498",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
+    "Town": "HAUTCHARAGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0521",
+    "Street": "BUREAU DE POSTE SANDWEILER (PACKUP)",
     "Town": "SANDWEILER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 531,
-    "Street": "METZLEREI SAUBER (PACK UP)",
-    "Town": "MOUTFORT",
+    "Postcode": "0522",
+    "Street": "24/24 STATION-SERVICE ESSO (PACKUP)",
+    "Town": "SANDWEILER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 551,
-    "Street": "ESSO (PACK UP STATION-SERVICE)",
+    "Postcode": "0532",
+    "Street": "24/24 MUNSBACH (PACKUP)",
+    "Town": "MUNSBACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0551",
+    "Street": "ESSO (PACKUP STATION-SERVICE)",
     "Town": "REMICH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 552,
-    "Street": "BUREAU DE POSTE REMICH-GUICHETS (PACK UP)",
+    "Postcode": "0552",
+    "Street": "BUREAU DE POSTE REMICH-GUICHETS (PACKUP)",
     "Town": "REMICH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 553,
-    "Street": "24/24 REMICH (PACK UP)",
+    "Postcode": "0553",
+    "Street": "24/24 REMICH (PACKUP)",
     "Town": "REMICH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 561,
-    "Street": "STATION-SERVICE TOTAL (PACK UP)",
+    "Postcode": "0554",
+    "Street": "24/24 CACTUS REMICH (PACKUP)",
+    "Town": "REMICH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0555",
+    "Street": "POINT POST CACTUS REMICH (PACKUP)",
+    "Town": "REMICH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0561",
+    "Street": "STATION-SERVICE TOTAL (PACKUP)",
     "Town": "MONDORF-LES-BAINS",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 562,
-    "Street": "BUREAU DE POSTE MONDORF-LES-BAINS (PACK UP)",
+    "Postcode": "0562",
+    "Street": "BUREAU DE POSTE MONDORF-LES-BAINS (PACKUP)",
     "Town": "MONDORF-LES-BAINS",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 581,
-    "Street": "STATION-SERVICE Q8 (PACK UP)",
+    "Postcode": "0563",
+    "Street": "24/24 MONDORF-LES-BAINS (PACKUP)",
+    "Town": "MONDORF-LES-BAINS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0571",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
+    "Town": "FRISANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0572",
+    "Street": "GULF (PACKUP STATION-SERVICE)",
+    "Town": "FRISANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0581",
+    "Street": "STATION-SERVICE Q8 (PACKUP)",
     "Town": "HESPERANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 582,
-    "Street": "BUREAU DE POSTE HESPERANGE (PACK UP)",
+    "Postcode": "0582",
+    "Street": "BUREAU DE POSTE HESPERANGE (PACKUP)",
     "Town": "HESPERANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 583,
-    "Street": "24/24 HESPERANGE (PACK UP)",
+    "Postcode": "0583",
+    "Street": "24/24 HESPERANGE (PACKUP)",
     "Town": "HESPERANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 611,
-    "Street": "BUREAU DE POSTE JUNGLINSTER-GUICHETS (PACK UP)",
+    "Postcode": "0584",
+    "Street": "24/24 STATION-SERVICE TOTAL (PACKUP)",
+    "Town": "HOWALD",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0611",
+    "Street": "BUREAU DE POSTE JUNGLINSTER-GUICHETS (PACKUP)",
     "Town": "JUNGLINSTER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 612,
-    "Street": "24/24 JUNGLINSTER (PACK UP)",
+    "Postcode": "0612",
+    "Street": "24/24 JUNGLINSTER (PACKUP)",
     "Town": "JUNGLINSTER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 641,
-    "Street": "STATION-SERVICE Q8 (PACK UP)",
+    "Postcode": "0613",
+    "Street": "24/24 GULF JUNGLINSTER (PACKUP)",
+    "Town": "JUNGLINSTER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0614",
+    "Street": "SHOPPI JUNGLINSTER (PACKUP POINT POST)",
+    "Town": "JUNGLINSTER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0631",
+    "Street": "24/24 BEAUFORT DELHAIZE (PACKUP)",
+    "Town": "BEAUFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0641",
+    "Street": "STATION-SERVICE Q8 (PACKUP)",
     "Town": "ECHTERNACH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 642,
-    "Street": "BUREAU DE POSTE ECHTERNACH (PACK UP)",
+    "Postcode": "0642",
+    "Street": "BUREAU DE POSTE ECHTERNACH (PACKUP)",
     "Town": "ECHTERNACH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 643,
-    "Street": "24/24 ECHTERNACH (PACK UP)",
+    "Postcode": "0643",
+    "Street": "24/24 ECHTERNACH (PACKUP)",
     "Town": "ECHTERNACH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 661,
-    "Street": "BUREAU DE POSTE WASSERBILLIG (PACK UP)",
+    "Postcode": "0644",
+    "Street": "24/24 CACTUS ECHTERNACH (PACKUP)",
+    "Town": "ECHTERNACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0661",
+    "Street": "BUREAU DE POSTE WASSERBILLIG (PACKUP)",
     "Town": "WASSERBILLIG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 662,
-    "Street": "ZEIDUNGSBUTTEK CLAUDE WEBER (PACK UP)",
+    "Postcode": "0662",
+    "Street": "ZEIDUNGSBUTTEK CLAUDE WEBER (PACKUP)",
     "Town": "WASSERBILLIG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 671,
-    "Street": "BUREAU DE POSTE GREVENMACHER (PACK UP)",
+    "Postcode": "0663",
+    "Street": "24/24 Q8 MERTERT (PACKUP)",
+    "Town": "MERTERT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0664",
+    "Street": "Q8 MERTERT (PACKUP RELAIS)",
+    "Town": "MERTERT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0665",
+    "Street": "WEBER WASSERBILLIG (PACKUP)",
+    "Town": "WASSERBILLIG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0671",
+    "Street": "BUREAU DE POSTE GREVENMACHER (PACKUP)",
     "Town": "GREVENMACHER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 672,
-    "Street": "24/24 GREVENMACHER (PACK UP)",
+    "Postcode": "0672",
+    "Street": "24/24 GREVENMACHER (PACKUP)",
     "Town": "GREVENMACHER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 691,
-    "Street": "BUREAU DE POSTE NIEDERANVEN (PACK UP)",
+    "Postcode": "0691",
+    "Street": "BUREAU DE POSTE NIEDERANVEN (PACKUP)",
     "Town": "NIEDERANVEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 692,
-    "Street": "24/24 NIEDERANVEN (PACK UP)",
+    "Postcode": "0692",
+    "Street": "24/24 NIEDERANVEN (PACKUP)",
     "Town": "NIEDERANVEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 721,
-    "Street": "BUREAU DE POSTE BERELDANGE (PACK UP)",
+    "Postcode": "0721",
+    "Street": "BUREAU DE POSTE BERELDANGE (PACKUP)",
     "Town": "BERELDANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 722,
-    "Street": "24/24 BERELDANGE (PACK UP)",
+    "Postcode": "0722",
+    "Street": "24/24 BERELDANGE (PACKUP)",
     "Town": "BERELDANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 751,
-    "Street": "ZEITUNGSBUTTEK (PACK UP)",
+    "Postcode": "0723",
+    "Street": "24/24 CACTUS BERELDANGE (PACKUP)",
+    "Town": "BERELDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0724",
+    "Street": "POINT POST CACTUS BERELDANGE (PACKUP)",
+    "Town": "BERELDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0731",
+    "Street": "24/24 TOTAL LORENTZWEILER (PACKUP)",
+    "Town": "LORENTZWEILER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0732",
+    "Street": "TOTAL LORENTZWEILER (PACKUP)",
+    "Town": "LORENTZWEILER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0752",
+    "Street": "BUREAU DE POSTE MERSCH (PACKUP)",
     "Town": "MERSCH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 752,
-    "Street": "BUREAU DE POSTE MERSCH (PACK UP)",
+    "Postcode": "0753",
+    "Street": "24/24 MERSCH (PACKUP)",
     "Town": "MERSCH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 753,
-    "Street": "24/24 MERSCH (PACK UP)",
+    "Postcode": "0754",
+    "Street": "24/24 STATION-SERVICE TOTAL (PACKUP)",
     "Town": "MERSCH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 761,
-    "Street": "BUREAU DE POSTE LAROCHETTE (PACK UP)",
+    "Postcode": "0755",
+    "Street": "SHOPPI MERSCH (PACKUP POINT POST)",
+    "Town": "MERSCH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0761",
+    "Street": "BUREAU DE POSTE LAROCHETTE (PACKUP)",
     "Town": "LAROCHETTE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 763,
-    "Street": "ESSO (PACK UP 24/24 STATION-SERVICE)",
+    "Postcode": "0763",
+    "Street": "24/24 STATION-SERVICE ESSO (PACKUP)",
     "Town": "LAROCHETTE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 771,
-    "Street": "BUREAU DE POSTE COLMAR-BERG (PACK UP)",
+    "Postcode": "0771",
+    "Street": "BUREAU DE POSTE COLMAR-BERG (PACKUP)",
     "Town": "COLMAR-BERG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 772,
-    "Street": "COLMAR-BERG (PACK UP 24/24)",
+    "Postcode": "0772",
+    "Street": "COLMAR-BERG (PACKUP 24/24)",
     "Town": "COLMAR-BERG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 801,
-    "Street": "ZEITUNGSBUTTEK AM WENKEL (PACK UP)",
+    "Postcode": "0801",
+    "Street": "ZEITUNGSBUTTEK AM WENKEL (PACKUP)",
     "Town": "BERTRANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 802,
-    "Street": "BUREAU DE POSTE BERTRANGE (PACK UP)",
+    "Postcode": "0802",
+    "Street": "BUREAU DE POSTE BERTRANGE (PACKUP)",
     "Town": "BERTRANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 803,
-    "Street": "BUREAU DE POSTE STRASSEN (PACK UP)",
+    "Postcode": "0803",
+    "Street": "BUREAU DE POSTE STRASSEN (PACKUP)",
     "Town": "STRASSEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 804,
-    "Street": "BUREAU DE POSTE HELFENT-BERTRANGE (PACK UP)",
+    "Postcode": "0804",
+    "Street": "BUREAU DE POSTE HELFENT-BERTRANGE (PACKUP)",
     "Town": "BERTRANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 805,
-    "Street": "24/24 STRASSEN (PACK UP)",
+    "Postcode": "0805",
+    "Street": "24/24 STRASSEN (PACKUP)",
     "Town": "STRASSEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 806,
-    "Street": "24/24 CONCORDE (PACK UP)",
+    "Postcode": "0806",
+    "Street": "24/24 CONCORDE (PACKUP)",
     "Town": "BERTRANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 811,
-    "Street": "STATION-SERVICE Q8 (PACK UP)",
+    "Postcode": "0807",
+    "Street": "24/24 CACTUS BERTRANGE (PACKUP)",
+    "Town": "BERTRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0808",
+    "Street": "24/24 BERTRANGE (PACKUP)",
+    "Town": "BERTRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0809",
+    "Street": "24/24 STRASSEN (RTE. ARLON) (PACKUP)",
+    "Town": "STRASSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0811",
+    "Street": "STATION-SERVICE Q8 (PACKUP)",
     "Town": "BRIDEL",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 812,
-    "Street": "24/24 BRIDEL (PACK UP)",
+    "Postcode": "0812",
+    "Street": "24/24 BRIDEL (PACKUP)",
     "Town": "BRIDEL",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 821,
-    "Street": "BUREAU DE POSTE MAMER (PACK UP)",
+    "Postcode": "0813",
+    "Street": "24/24 Q8 STRASSEN (PACKUP)",
+    "Town": "STRASSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0814",
+    "Street": "Q8 STRASSEN (PACKUP RELAIS)",
+    "Town": "STRASSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0821",
+    "Street": "BUREAU DE POSTE MAMER (PACKUP)",
     "Town": "MAMER",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 822,
-    "Street": "BOULANGERIE MOLITOR (PACK UP)",
-    "Town": "MAMER",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 823,
-    "Street": "POSTSHOP KEHLEN (PACK UP)",
+    "Postcode": "0823",
+    "Street": "POSTSHOP KEHLEN (PACKUP)",
     "Town": "KEHLEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 831,
-    "Street": "MATHGEN (PACK UP EPICERIE)",
-    "Town": "HOBSCHEID",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 832,
-    "Street": "STATION-SERVICE TOTAL (PACK UP)",
+    "Postcode": "0832",
+    "Street": "STATION-SERVICE TOTAL (PACKUP)",
     "Town": "WINDHOF",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 833,
-    "Street": "BUREAU DE POSTE CAPELLEN (PACK UP)",
+    "Postcode": "0833",
+    "Street": "BUREAU DE POSTE CAPELLEN (PACKUP)",
     "Town": "CAPELLEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 841,
-    "Street": "BUREAU DE POSTE STEINFORT (PACK UP)",
+    "Postcode": "0834",
+    "Street": "24/24 STATION-SERVICE TOTAL (PACKUP)",
+    "Town": "WINDHOF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0841",
+    "Street": "BUREAU DE POSTE STEINFORT (PACKUP)",
     "Town": "STEINFORT",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 852,
-    "Street": "BUREAU DE POSTE REDANGE-SUR-ATTERT (PACK UP)",
+    "Postcode": "0842",
+    "Street": "24/24 STATION-SERVICE ESSO (PACKUP)",
+    "Town": "STEINFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0843",
+    "Street": "ESSO (PACKUP STATION-SERVICE)",
+    "Town": "STEINFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0844",
+    "Street": "EPICERIE LYDIA (PACKUP)",
+    "Town": "EISCHEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0852",
+    "Street": "BUREAU DE POSTE REDANGE-SUR-ATTERT (PACKUP)",
     "Town": "REDANGE-SUR-ATTERT",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 853,
-    "Street": "POSTSHOP OBERPALLEN (PACK UP)",
+    "Postcode": "0853",
+    "Street": "POSTSHOP OBERPALLEN (PACKUP)",
     "Town": "OBERPALLEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 854,
-    "Street": "POSTSHOP NOERDANGE (PACK UP)",
-    "Town": "NOERDANGE",
+    "Postcode": "0855",
+    "Street": "24/24 CACTUS REDANGE-SUR-ATTERT (PACKUP)",
+    "Town": "REDANGE-SUR-ATTERT",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 861,
-    "Street": "POSTSHOP PRATZ (PACK UP)",
+    "Postcode": "0856",
+    "Street": "POST CACTUS REDANGE-SUR-ATTERT (PACKUP POINT)",
+    "Town": "REDANGE-SUR-ATTERT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0857",
+    "Street": "24/24 STATION-SERVICE TOTAL (PACKUP)",
+    "Town": "OBERPALLEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0858",
+    "Street": "SHOPPI OBERPALLEN (PACKUP POINT POST)",
+    "Town": "OBERPALLEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0861",
+    "Street": "POSTSHOP PRATZ (PACKUP)",
     "Town": "PRATZ",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 881,
-    "Street": "BOULANGERIE JOS ET JEAN-MARIE (PACK UP)",
+    "Postcode": "0881",
+    "Street": "BOULANGERIE JOS ET JEAN-MARIE (PACKUP)",
     "Town": "RAMBROUCH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 901,
-    "Street": "STATION-SERVICE GULF (PACK UP)",
+    "Postcode": "0901",
+    "Street": "STATION-SERVICE GULF (PACKUP)",
     "Town": "ETTELBRUCK",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 902,
-    "Street": "EUROBUTTEK LOSCHEIDER (PACK UP)",
+    "Postcode": "0903",
+    "Street": "BUREAU DE POSTE ETTELBRUCK (PACKUP)",
     "Town": "ETTELBRUCK",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 903,
-    "Street": "BUREAU DE POSTE ETTELBRUCK (PACK UP)",
+    "Postcode": "0904",
+    "Street": "24/24 ETTELBRUCK (PACKUP)",
     "Town": "ETTELBRUCK",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 904,
-    "Street": "24/24 ETTELBRUCK (PACK UP)",
+    "Postcode": "0905",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
     "Town": "ETTELBRUCK",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 911,
-    "Street": "POSTSHOP INGELDORF (PACK UP)",
+    "Postcode": "0911",
+    "Street": "POSTSHOP INGELDORF (PACKUP)",
     "Town": "INGELDORF",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 912,
-    "Street": "POSTSHOP HEIDERSCHEID (PACK UP)",
+    "Postcode": "0912",
+    "Street": "POSTSHOP HEIDERSCHEID (PACKUP)",
     "Town": "HEIDERSCHEID",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 913,
-    "Street": "POSTSHOP MERTZIG (PACK UP)",
+    "Postcode": "0913",
+    "Street": "POSTSHOP MERTZIG (PACKUP)",
     "Town": "MERTZIG",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 921,
-    "Street": "BUREAU DE POSTE DIEKIRCH (PACK UP)",
+    "Postcode": "0914",
+    "Street": "24/24 CACTUS INGELDORF (PACKUP)",
+    "Town": "INGELDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0915",
+    "Street": "POINT POST CACTUS INGELDORF (PACKUP)",
+    "Town": "INGELDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0916",
+    "Street": "24/24 GULF MERTZIG (PACKUP)",
+    "Town": "MERTZIG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0921",
+    "Street": "BUREAU DE POSTE DIEKIRCH (PACKUP)",
     "Town": "DIEKIRCH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 922,
-    "Street": "24/24 DIEKIRCH (PACK UP)",
+    "Postcode": "0922",
+    "Street": "24/24 DIEKIRCH (PACKUP)",
     "Town": "DIEKIRCH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 942,
-    "Street": "BUREAU DE POSTE VIANDEN (PACK UP)",
+    "Postcode": "0931",
+    "Street": "24/24 STATION-SERVICE ARAL FRIEDHAFF (PACKUP)",
+    "Town": "DIEKIRCH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0942",
+    "Street": "BUREAU DE POSTE VIANDEN (PACKUP)",
     "Town": "VIANDEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 951,
-    "Street": "STATION-SERVICE GULF (PACK UP)",
+    "Postcode": "0943",
+    "Street": "24/24 Q8 VIANDEN (PACKUP)",
+    "Town": "VIANDEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0944",
+    "Street": "Q8 VIANDEN (PACKUP RELAIS)",
+    "Town": "VIANDEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0951",
+    "Street": "STATION-SERVICE GULF (PACKUP)",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 952,
-    "Street": "BUREAU DE POSTE WILTZ (PACK UP)",
+    "Postcode": "0952",
+    "Street": "BUREAU DE POSTE WILTZ (PACKUP)",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 953,
-    "Street": "24/24 WILTZ (PACK UP)",
+    "Postcode": "0953",
+    "Street": "24/24 STATION-SERVICE ARAL (PACKUP)",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 961,
-    "Street": "BOULANGERIE JOS ET JEAN-MARIE (PACK UP)",
+    "Postcode": "0954",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
+    "Town": "WILTZ",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0955",
+    "Street": "STATION-SERVICE ARAL (PACK UP)",
+    "Town": "WILTZ",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0961",
+    "Street": "BOULANGERIE JOS ET JEAN-MARIE (PACKUP)",
     "Town": "HARLANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 971,
-    "Street": "POSTSHOP MARNACH (PACK UP)",
+    "Postcode": "0962",
+    "Street": "24/24 Q8 POMMERLOCH (PACKUP)",
+    "Town": "POMMERLOCH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0963",
+    "Street": "Q8 POMMERLOCH (PACKUP RELAIS)",
+    "Town": "POMMERLOCH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0971",
+    "Street": "POSTSHOP MARNACH (PACKUP)",
     "Town": "MARNACH",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 972,
-    "Street": "BUREAU DE POSTE CLERVAUX (PACK UP)",
+    "Postcode": "0972",
+    "Street": "BUREAU DE POSTE CLERVAUX (PACKUP)",
     "Town": "CLERVAUX",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 973,
-    "Street": "POSTSHOP WINCRANGE (PACK UP)",
+    "Postcode": "0973",
+    "Street": "POSTSHOP WINCRANGE (PACKUP)",
     "Town": "WINCRANGE",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 981,
-    "Street": "BUREAU DE POSTE HOSINGEN (PACK UP)",
+    "Postcode": "0974",
+    "Street": "24/24 MARNACH (PACKUP)",
+    "Town": "MARNACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0975",
+    "Street": "POST MARNACH (PACKUP ESPACE)",
+    "Town": "MARNACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0976",
+    "Street": "ESPACE POST MARNACH",
+    "Town": "MARNACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0981",
+    "Street": "BUREAU DE POSTE HOSINGEN (PACKUP)",
     "Town": "HOSINGEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 982,
-    "Street": "24/24 HOSINGEN (PACK UP)",
+    "Postcode": "0982",
+    "Street": "24/24 HOSINGEN (PACKUP)",
     "Town": "HOSINGEN",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 991,
-    "Street": "SHOPPING CENTER MASSEN (PACK UP)",
+    "Postcode": "0983",
+    "Street": "24/24 STATION-SERVICE GULF (PACKUP)",
+    "Town": "HOSINGEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0984",
+    "Street": "POINT POST SHOPPI HOSINGEN (PACKUP)",
+    "Town": "HOSINGEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0991",
+    "Street": "SHOPPING CENTER MASSEN (PACKUP)",
     "Town": "WEMPERHARDT",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 992,
-    "Street": "PAPETERIE MERTENS (PACK UP)",
+    "Postcode": "0993",
+    "Street": "BUREAU DE POSTE TROISVIERGES (PACKUP)",
     "Town": "TROISVIERGES",
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 993,
-    "Street": "BUREAU DE POSTE TROISVIERGES (PACK UP)",
+    "Postcode": "0994",
+    "Street": "POSTSHOP WEISWAMPACH (PACKUP)",
+    "Town": "WEISWAMPACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0995",
+    "Street": "24/24 WEISWAMPACH (PACKUP)",
+    "Town": "WEISWAMPACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": "0996",
+    "Street": "24/24 Q8 TROISVIERGES (PACKUP)",
     "Town": "TROISVIERGES",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 994,
-    "Street": "POSTSHOP WEISWAMPACH (PACK UP)",
-    "Town": "WEISWAMPACH",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 995,
-    "Street": "24/24 WEISWAMPACH (PACK UP)",
-    "Town": "WEISWAMPACH",
     "Country": "LUXEMBOURG"
   },
   {
@@ -930,8 +1308,26 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 1040,
+    "Street": "BOITES POSTALES N° 4000-4099",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1041,
+    "Street": "BOITES POSTALES N° 4100-4199",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 1050,
     "Street": "BOITES POSTALES N° 5000-5099",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1060,
+    "Street": "REPONSE (ENVOI)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -1934,6 +2330,12 @@
   {
     "Postcode": 1333,
     "Street": "CHIMAY (RUE)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1334,
+    "Street": "CHINY (RUE DE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -3066,6 +3468,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 1553,
+    "Street": "FRANCOPHONIE (RUE DE LA)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 1610,
     "Street": "GARE (AVENUE DE LA) N° PAIR",
     "Town": "LUXEMBOURG",
@@ -3272,6 +3680,12 @@
   {
     "Postcode": 1645,
     "Street": "GRUND (MONTEE DU)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1645,
+    "Street": "SCHMEDD (OP DER)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -3702,6 +4116,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 1752,
+    "Street": "HIRSCH (RUE ANTOINE)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 1753,
     "Street": "HOFFMANN (RUE LEOPOLD)",
     "Town": "LUXEMBOURG",
@@ -3747,6 +4167,12 @@
     "Postcode": 1817,
     "Street": "IVOIX (RUE D')",
     "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1818,
+    "Street": "FER (RUE DU CHEMIN DE)",
+    "Town": "HOWALD",
     "Country": "LUXEMBOURG"
   },
   {
@@ -4028,6 +4454,12 @@
   {
     "Postcode": 1873,
     "Street": "KEPLER (RUE JOHANNES)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1874,
+    "Street": "JACQUEMART-JAANS (RUE JOSEPHINE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -4460,6 +4892,12 @@
   {
     "Postcode": 1954,
     "Street": "LEEMERWEE",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 1955,
+    "Street": "LUJA (RUE ANTOINE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -5328,6 +5766,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 2243,
+    "Street": "NOTTING (RUE PIERRE)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 2261,
     "Street": "FORT OLISY (RUE DU)",
     "Town": "LUXEMBOURG",
@@ -5827,7 +6271,7 @@
   },
   {
     "Postcode": 2410,
-    "Street": "RECKENTHAL (RUE DE) N° IMPAIR 1-183",
+    "Street": "RECKENTHAL (RUE DE) N° IMPAIR 1-301",
     "Town": "STRASSEN",
     "Country": "LUXEMBOURG"
   },
@@ -6116,6 +6560,12 @@
   {
     "Postcode": 2454,
     "Street": "ROLLMAN (RUE TONY)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2455,
+    "Street": "ROUFF (RUE JEANNE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -6500,6 +6950,24 @@
   {
     "Postcode": 2567,
     "Street": "SENGHOR (RUE LEOPOLD SEDAR)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2568,
+    "Street": "SCHWALL-LACROIX (RUE ANNETTE)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2607,
+    "Street": "THIEL (RUE LUCIEN)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2608,
+    "Street": "THEATO (RUE MICHEL)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7074,8 +7542,32 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 2860,
+    "Street": "GARANTIE DES DEPOTS LUXEMBOURG (FONDS DE)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2860,
+    "Street": "DEPOTS LUXEMBOURG (FONDS DE GARANTIE DES)",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 2880,
     "Street": "POLICE GRAND-DUCALE UCPR-CSA-CNT21A",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2882,
+    "Street": "FONDS DE RESOLUTION LUXEMBOURG",
+    "Town": "LUXEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 2882,
+    "Street": "RESOLUTION LUXEMBOURG (FONDS DE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7123,7 +7615,7 @@
   },
   {
     "Postcode": 2913,
-    "Street": "AGRICULTURE VITICULTURE PROTECTION CONSOMMATEURS (MINISTERE)",
+    "Street": "AGRICULTURE , VITICULTURE, PROTECTION CONSOMMATEURS (MINISTERE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7159,7 +7651,7 @@
   },
   {
     "Postcode": 2919,
-    "Street": "FAMILLE DE L'INTEGRATION ET GRANDE REGION (MINISTERE DE LA)",
+    "Street": "FAMILLE , DE L'INTEGRATION ET GRANDE REGION (MINISTERE DE LA)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7189,7 +7681,7 @@
   },
   {
     "Postcode": 2926,
-    "Street": "EDUCATION NATIONALE DE L'ENFANCE ET JEUNESSE (MINISTERE DE L')",
+    "Street": "EDUCATION NATIONALE, DE L'ENFANCE ET JEUNESSE (MINISTERE DE L')",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7267,7 +7759,7 @@
   },
   {
     "Postcode": 2939,
-    "Street": "TRAVAIL EMPLOI ECONOMIE SOCIALE ET SOLIDAIRE (MINISTERE DE)",
+    "Street": "TRAVAIL , EMPLOI, ECONOMIE SOCIALE ET SOLIDAIRE (MINISTERE DE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7279,7 +7771,7 @@
   },
   {
     "Postcode": 2941,
-    "Street": "SERVICES COMMUNS MIN. TRAVAIL FAMILLE SOL. SOC. ET JUSTICE",
+    "Street": "SERVICES COMMUNS MIN. TRAVAIL, FAMILLE, SOL. SOC. ET JUSTICE",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7351,7 +7843,7 @@
   },
   {
     "Postcode": 2956,
-    "Street": "CETREL",
+    "Street": "SIX",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7405,7 +7897,7 @@
   },
   {
     "Postcode": 2971,
-    "Street": "CAISSE MEDICO-CHIRURGICALE MUTUALISTE",
+    "Street": "MEDICO-COMPLEMENTAIRE MUTUALISTE (CAISSE)",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7477,7 +7969,7 @@
   },
   {
     "Postcode": 2984,
-    "Street": "DU PONT DE NEMOURS MANUFACTURING DIVISION",
+    "Street": "DU PONT DE NEMOURS, MANUFACTURING DIVISION",
     "Town": "LUXEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7578,6 +8070,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 3208,
+    "Street": "REPONSE (ENVOI)",
+    "Town": "BETTEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 3209,
     "Street": "LEISCHEMER (A)",
     "Town": "BETTEMBOURG",
@@ -7675,6 +8173,12 @@
   },
   {
     "Postcode": 3225,
+    "Street": "INDUSTRIELLE WOLSER 1 (ZONE)",
+    "Town": "BETTEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 3225,
     "Street": "WOLSER 1 (ZONE INDUSTRIELLE)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
@@ -7682,6 +8186,12 @@
   {
     "Postcode": 3225,
     "Street": "CONTAINER TERMINAL",
+    "Town": "BETTEMBOURG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 3225,
+    "Street": "INDUSTRIELLE WOLSER 2 (ZONE)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -7843,7 +8353,7 @@
   },
   {
     "Postcode": 3249,
-    "Street": "KENNEDY (RUE J-F)",
+    "Street": "KENNEDY (RUE JOHN FITZGERALD)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -8011,7 +8521,7 @@
   },
   {
     "Postcode": 3275,
-    "Street": "POLK (RUE JAMES-HILLIARD)",
+    "Street": "POLK (RUE JAMES HILLIARD)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -8101,7 +8611,7 @@
   },
   {
     "Postcode": 3290,
-    "Street": "KRAKELSHAFF (ZONE D'ACTIVITES ECONOMIQUES)",
+    "Street": "KRAKELSHAFF (ZAE)",
     "Town": "BETTEMBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -8401,19 +8911,13 @@
   },
   {
     "Postcode": 3325,
-    "Street": "AIRE DE BERCHEM (AUTOROUTE)",
+    "Street": "AIRE DE BERCHEM",
     "Town": "BERCHEM",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 3325,
-    "Street": "DE BERCHEM (AUTOROUTE AIRE)",
-    "Town": "BERCHEM",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 3325,
-    "Street": "BERCHEM (AUTOROUTE AIRE DE)",
+    "Street": "BERCHEM (AIRE DE)",
     "Town": "BERCHEM",
     "Country": "LUXEMBOURG"
   },
@@ -9060,6 +9564,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 3381,
+    "Street": "FONTEBIERG (RUE)",
+    "Town": "LIVANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 3382,
     "Street": "GARE (RUE DE LA)",
     "Town": "NOERTZANGE",
@@ -9564,6 +10074,24 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 3434,
+    "Street": "EUROHUB SUD (PARC LOGISTIQUE)",
+    "Town": "DUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 3434,
+    "Street": "SUD (PARC LOGISTIQUE EUROHUB)",
+    "Town": "DUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 3434,
+    "Street": "INTERMODAL EUROHUB SUD (TERMINAL)",
+    "Town": "DUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 3435,
     "Street": "BERG-CLAUSSE (RUE MARIE)",
     "Town": "DUDELANGE",
@@ -9662,6 +10190,12 @@
   {
     "Postcode": 3450,
     "Street": "COMMERCE (RUE DU)",
+    "Town": "DUDELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 3451,
+    "Street": "INDUSTRIELLE RIEDGEN (ZONE)",
     "Town": "DUDELANGE",
     "Country": "LUXEMBOURG"
   },
@@ -10970,6 +11504,12 @@
   {
     "Postcode": 3730,
     "Street": "GRAND-RUE",
+    "Town": "RUMELANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 3731,
+    "Street": "ARTISANALE LAANGEGRONN (ZONE)",
     "Town": "RUMELANGE",
     "Country": "LUXEMBOURG"
   },
@@ -12294,8 +12834,20 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 4025,
+    "Street": "DE BELVAUX (RUE) N° 1-100",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 4026,
     "Street": "BELVAUX (RUE DE) N° 101-999",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4026,
+    "Street": "DE BELVAUX (RUE) N° 101-999",
     "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
   },
@@ -13011,6 +13563,12 @@
     "Postcode": 4149,
     "Street": "FANDEL (RUE ROMAIN)",
     "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4149,
+    "Street": "INDUSTRIELLE UM MONKELER (ZONE)",
+    "Town": "SCHIFFLANGE",
     "Country": "LUXEMBOURG"
   },
   {
@@ -14011,6 +14569,12 @@
   },
   {
     "Postcode": 4355,
+    "Street": "ZARE SOMMET",
+    "Town": "ESCH-SUR-ALZETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4355,
     "Street": "SOMMET (ZARE)",
     "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
@@ -14127,6 +14691,12 @@
     "Postcode": 4373,
     "Street": "RECHERCHE (BOULEVARD DE LA)",
     "Town": "BELVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4374,
+    "Street": "BATACLAN (RUE LE)",
+    "Town": "ESCH-SUR-ALZETTE",
     "Country": "LUXEMBOURG"
   },
   {
@@ -14838,6 +15408,30 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 4471,
+    "Street": "SEELBUNNSTROOSS",
+    "Town": "BELVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4472,
+    "Street": "GREISCH (RUE MATHIAS)",
+    "Town": "BELVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4473,
+    "Street": "SUNNEN (RUE FRED)",
+    "Town": "BELVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4474,
+    "Street": "KRIER (RUE ROGER)",
+    "Town": "BELVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 4475,
     "Street": "GAALGEBIERG (RUE)",
     "Town": "BELVAUX",
@@ -14995,7 +15589,7 @@
   },
   {
     "Postcode": 4492,
-    "Street": "SCHEUERHOF",
+    "Street": "SCHEIERHAFF",
     "Town": "SOLEUVRE",
     "Country": "LUXEMBOURG"
   },
@@ -15015,6 +15609,12 @@
     "Postcode": 4494,
     "Street": "DREISCH (ENNERT DEM)",
     "Town": "SOLEUVRE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4498,
+    "Street": "UERSCHTERHAFF (RUE)",
+    "Town": "SANEM",
     "Country": "LUXEMBOURG"
   },
   {
@@ -15337,6 +15937,12 @@
   },
   {
     "Postcode": 4530,
+    "Street": "MANDELA (PLACE NELSON)",
+    "Town": "DIFFERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4530,
     "Street": "CHARLOTTE (AVENUE) N° IMPAIR 1-95",
     "Town": "DIFFERDANGE",
     "Country": "LUXEMBOURG"
@@ -15583,7 +16189,19 @@
   },
   {
     "Postcode": 4562,
+    "Street": "INDUSTRIELLE HANEBOESCH (ZONE)",
+    "Town": "NIEDERKORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4562,
     "Street": "HANEBOESCH (ZONE INDUSTRIELLE)",
+    "Town": "NIEDERKORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4563,
+    "Street": "ACTIVITE COMMERCIALE HANEBOESCH II (ZONE D')",
     "Town": "NIEDERKORN",
     "Country": "LUXEMBOURG"
   },
@@ -15661,7 +16279,7 @@
   },
   {
     "Postcode": 4576,
-    "Street": "FONDS-DE-GRAS",
+    "Street": "FOND-DE-GRAS",
     "Town": "NIEDERKORN",
     "Country": "LUXEMBOURG"
   },
@@ -15854,6 +16472,12 @@
   {
     "Postcode": 4609,
     "Street": "LIGURES (RUE DES)",
+    "Town": "NIEDERKORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4610,
+    "Street": "KANNERBONGERT (AM)",
     "Town": "NIEDERKORN",
     "Country": "LUXEMBOURG"
   },
@@ -16095,6 +16719,18 @@
     "Postcode": 4653,
     "Street": "MEYER (RUE LOUIS)",
     "Town": "DIFFERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4654,
+    "Street": "USELDINGER-HOSTERT (RUE YVONNE)",
+    "Town": "OBERKORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4654,
+    "Street": "STOFFEL-WAGENER (RUE YVONNE)",
+    "Town": "OBERKORN",
     "Country": "LUXEMBOURG"
   },
   {
@@ -17767,6 +18403,12 @@
   },
   {
     "Postcode": 4940,
+    "Street": "ACTIVITES ECONOMIQUES ROBERT STEICHEN (ZONE D')",
+    "Town": "HAUTCHARAGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4940,
     "Street": "STEICHEN (ZONE D'ACTIVITES ECONOMIQUES ROBERT)",
     "Town": "HAUTCHARAGE",
     "Country": "LUXEMBOURG"
@@ -18660,6 +19302,18 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 4980,
+    "Street": "HAEREBIERG (UM)",
+    "Town": "RECKANGE-SUR-MESS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 4980,
+    "Street": "SCHEIFEREI (AN DER)",
+    "Town": "RECKANGE-SUR-MESS",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 4981,
     "Street": "REISPELT (AN DER)",
     "Town": "RECKANGE-SUR-MESS",
@@ -19489,7 +20143,19 @@
   },
   {
     "Postcode": 5280,
+    "Street": "INDUSTRIELLE ROLACH (ZONE)",
+    "Town": "SANDWEILER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5280,
     "Street": "ROLACH (ZONE INDUSTRIELLE)",
+    "Town": "SANDWEILER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5280,
+    "Street": "INDUSTRIELLE SCHEIDHOF (ZONE)",
     "Town": "SANDWEILER",
     "Country": "LUXEMBOURG"
   },
@@ -19536,6 +20202,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 5291,
+    "Street": "PLATEAU (UM)",
+    "Town": "NEUHAEUSGEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 5299,
     "Street": "KUELEBIERG (UM)",
     "Town": "SCHRASSIG",
@@ -19574,6 +20246,24 @@
   {
     "Postcode": 5312,
     "Street": "LEESSEN (AN DE)",
+    "Town": "CONTERN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5313,
+    "Street": "DIEDENHOVEN (RUE JACQUES)",
+    "Town": "CONTERN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5313,
+    "Street": "LEINER (RUE ROGER)",
+    "Town": "CONTERN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5313,
+    "Street": "DIEDERICH (RUE ROGER)",
     "Town": "CONTERN",
     "Country": "LUXEMBOURG"
   },
@@ -19706,6 +20396,12 @@
   {
     "Postcode": 5322,
     "Street": "SPORTS (RUE DES)",
+    "Town": "CONTERN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5324,
+    "Street": "LAITESCHBAACH (RUE)",
     "Town": "CONTERN",
     "Country": "LUXEMBOURG"
   },
@@ -20138,6 +20834,12 @@
   {
     "Postcode": 5359,
     "Street": "LEEGROND",
+    "Town": "SCHUTTRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5359,
+    "Street": "WISEN (AN DE)",
     "Town": "SCHUTTRANGE",
     "Country": "LUXEMBOURG"
   },
@@ -20695,6 +21397,12 @@
   },
   {
     "Postcode": 5405,
+    "Street": "GEIMESCHECK",
+    "Town": "BECH-KLEINMACHER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5405,
     "Street": "MOSELLE (RUE DE LA)",
     "Town": "BECH-KLEINMACHER",
     "Country": "LUXEMBOURG"
@@ -20846,6 +21554,12 @@
   {
     "Postcode": 5411,
     "Street": "OETRANGE (RUE D')",
+    "Town": "CANACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5411,
+    "Street": "ACTIVITES ECONOMIQUES RECKSCHLEED (ZONE D')",
     "Town": "CANACH",
     "Country": "LUXEMBOURG"
   },
@@ -21451,6 +22165,12 @@
   },
   {
     "Postcode": 5426,
+    "Street": "MAUERHECK (OP DER)",
+    "Town": "GREIVELDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5426,
     "Street": "BAACH (OP DER)",
     "Town": "GREIVELDANGE",
     "Country": "LUXEMBOURG"
@@ -21512,6 +22232,12 @@
   {
     "Postcode": 5427,
     "Street": "BRECK (OP DER)",
+    "Town": "GREIVELDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5427,
+    "Street": "KELLEREISWEE",
     "Town": "GREIVELDANGE",
     "Country": "LUXEMBOURG"
   },
@@ -22316,6 +23042,18 @@
   {
     "Postcode": 5465,
     "Street": "GONDELENGERMILLEN",
+    "Town": "WALDBREDIMUS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5465,
+    "Street": "SCHLASSWEE",
+    "Town": "WALDBREDIMUS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5466,
+    "Street": "LAUTESCH (CITE HANNERT)",
     "Town": "WALDBREDIMUS",
     "Country": "LUXEMBOURG"
   },
@@ -24264,6 +25002,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 5698,
+    "Street": "FAEHRBONGERTEN",
+    "Town": "WELFRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 5701,
     "Street": "BOITES POSTALES N° 1-99",
     "Town": "ASPELT",
@@ -24428,6 +25172,12 @@
   {
     "Postcode": 5740,
     "Street": "PESCH (AM)",
+    "Town": "FILSDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5740,
+    "Street": "SCHNEIDER (AN)",
     "Town": "FILSDORF",
     "Country": "LUXEMBOURG"
   },
@@ -24709,6 +25459,12 @@
   },
   {
     "Postcode": 5762,
+    "Street": "REECHEN (OP DE)",
+    "Town": "HASSEL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5762,
     "Street": "FORET (RUE DE LA)",
     "Town": "HASSEL",
     "Country": "LUXEMBOURG"
@@ -24757,7 +25513,7 @@
   },
   {
     "Postcode": 5772,
-    "Street": "KIIRCHEPAD",
+    "Street": "KIERCHEPAD (AM)",
     "Town": "WEILER-LA-TOUR",
     "Country": "LUXEMBOURG"
   },
@@ -24793,7 +25549,7 @@
   },
   {
     "Postcode": 5773,
-    "Street": "SCHLAMMESTEE",
+    "Street": "SCHLAMMESTEE (UM)",
     "Town": "WEILER-LA-TOUR",
     "Country": "LUXEMBOURG"
   },
@@ -24913,7 +25669,7 @@
   },
   {
     "Postcode": 5811,
-    "Street": "BETTEMBOURG (RUE DE) N° IMPAIR 49-999",
+    "Street": "BETTEMBOURG (RUE DE) N° IMPAIR 47-999",
     "Town": "FENTANGE",
     "Country": "LUXEMBOURG"
   },
@@ -25004,6 +25760,12 @@
   {
     "Postcode": 5825,
     "Street": "FEYDER (RUE VICTOR)",
+    "Town": "FENTANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5826,
+    "Street": "GASPERICH (RUE DE)",
     "Town": "FENTANGE",
     "Country": "LUXEMBOURG"
   },
@@ -25465,6 +26227,12 @@
   },
   {
     "Postcode": 5899,
+    "Street": "UNDEN (IMPASSE LILY)",
+    "Town": "SYREN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 5899,
     "Street": "TROUDLERMILLEN",
     "Town": "SYREN",
     "Country": "LUXEMBOURG"
@@ -25802,6 +26570,12 @@
   {
     "Postcode": 6124,
     "Street": "DIERT (OP DER)",
+    "Town": "JUNGLINSTER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6125,
+    "Street": "ARTISANALE UM LENSTER BIERG (ZONE)",
     "Town": "JUNGLINSTER",
     "Country": "LUXEMBOURG"
   },
@@ -26299,14 +27073,14 @@
   },
   {
     "Postcode": 6169,
-    "Street": "KUTSCHEWEE (AM) ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "KUTSCHEWEE (AM)",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6169,
-    "Street": "BECHEL (OP DEM) ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "BECHEL (OP DEM)",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -26317,38 +27091,38 @@
   },
   {
     "Postcode": 6169,
-    "Street": "BEIDWEILER (RUE DE) ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "BEIDWEILER (RUE DE)",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6169,
-    "Street": "ECOLE (RUE DE L') ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "ECOLE (RUE DE L')",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6169,
-    "Street": "GONDERANGE (RUE DE) ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "GONDERANGE (RUE DE)",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6169,
-    "Street": "OLINGEN (RUE D') ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "OLINGEN (RUE D')",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6169,
-    "Street": "VILLAGE (RUE DU) ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "VILLAGE (RUE DU)",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6169,
-    "Street": "HUESWEE ESCHWEILER",
-    "Town": "(JUNGLINSTER)",
+    "Street": "HUESWEE",
+    "Town": "ESCHWEILER (JUNGLINSTER)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -26712,6 +27486,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 6197,
+    "Street": "DECKHECK",
+    "Town": "EISENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 6201,
     "Street": "BOITES POSTALES N° 1-99",
     "Town": "CONSDORF",
@@ -26839,19 +27619,19 @@
   },
   {
     "Postcode": 6214,
-    "Street": "KALKESBACH N° IMPAIR",
+    "Street": "KALKESBAACHERSTROOSS N° IMPAIR",
     "Town": "KALKESBACH",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6214,
-    "Street": "KALKESBACH N° PAIR 12-20",
+    "Street": "KALKESBAACHERSTROOSS N° PAIR 12-20",
     "Town": "KALKESBACH",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6214,
-    "Street": "KALKESBACH N° PAIR 2-10",
+    "Street": "KALKESBAACHERSTROOSS N° PAIR 2-10",
     "Town": "KALKESBACH",
     "Country": "LUXEMBOURG"
   },
@@ -26907,6 +27687,12 @@
     "Postcode": 6225,
     "Street": "DITZEBIERG",
     "Town": "KOBENBOUR",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6225,
+    "Street": "BECHERWEE",
+    "Town": "ALTRIER",
     "Country": "LUXEMBOURG"
   },
   {
@@ -27726,6 +28512,18 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 6316,
+    "Street": "HEED (OP DER)",
+    "Town": "BEAUFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6316,
+    "Street": "SCHLEEF (AN DER)",
+    "Town": "BEAUFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 6340,
     "Street": "BIGELBACH",
     "Town": "BIGELBACH",
@@ -28254,6 +29052,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 6460,
+    "Street": "DU MARCHE (PLACE)",
+    "Town": "ECHTERNACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 6461,
     "Street": "DEVANT LE MARCHE",
     "Town": "ECHTERNACH",
@@ -28393,7 +29197,7 @@
   },
   {
     "Postcode": 6474,
-    "Street": "SCHMATZACHT",
+    "Street": "SCHMATZOACHT",
     "Town": "ECHTERNACH",
     "Country": "LUXEMBOURG"
   },
@@ -28987,13 +29791,19 @@
   },
   {
     "Postcode": 6580,
-    "Street": "CAMPING (RUE DU)",
+    "Street": "STADE (RUE DU)",
     "Town": "ROSPORT",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6580,
     "Street": "ECHTERNACH (ROUTE D')",
+    "Town": "ROSPORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6580,
+    "Street": "CAMPING (RUE DU)",
     "Town": "ROSPORT",
     "Country": "LUXEMBOURG"
   },
@@ -29232,12 +30042,6 @@
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 6617,
-    "Street": "DOLOMITHARTSTEINWERK",
-    "Town": "WASSERBILLIG",
-    "Country": "LUXEMBOURG"
-  },
-  {
     "Postcode": 6618,
     "Street": "FLEURI (VAL)",
     "Town": "WASSERBILLIG",
@@ -29388,6 +30192,18 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 6655,
+    "Street": "AIRE DE WASSERBILLIG",
+    "Town": "WASSERBILLIG",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6655,
+    "Street": "WASSERBILLIG (AIRE DE)",
+    "Town": "WASSERBILLIG",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 6660,
     "Street": "CAMPINGSWEE",
     "Town": "BORN",
@@ -29438,6 +30254,12 @@
   {
     "Postcode": 6661,
     "Street": "NEIE WEE",
+    "Town": "BORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6661,
+    "Street": "WEE (NEIE)",
     "Town": "BORN",
     "Country": "LUXEMBOURG"
   },
@@ -29516,12 +30338,6 @@
   {
     "Postcode": 6665,
     "Street": "WIEWESCH (A)",
-    "Town": "HERBORN",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 6665,
-    "Street": "UM BIERG",
     "Town": "HERBORN",
     "Country": "LUXEMBOURG"
   },
@@ -29761,6 +30577,12 @@
   },
   {
     "Postcode": 6690,
+    "Street": "ZWISCHEN DEN GRABEN",
+    "Town": "MOERSDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6690,
     "Street": "GRABEN (ZWISCHEN DEN)",
     "Town": "MOERSDORF",
     "Country": "LUXEMBOURG"
@@ -29810,6 +30632,12 @@
   {
     "Postcode": 6691,
     "Street": "ALE WEE",
+    "Town": "MOERSDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6691,
+    "Street": "WEE (ALE)",
     "Town": "MOERSDORF",
     "Country": "LUXEMBOURG"
   },
@@ -29869,7 +30697,7 @@
   },
   {
     "Postcode": 6695,
-    "Street": "SCHAEFEREDER",
+    "Street": "SCHAEFERRIEDER",
     "Town": "WASSERBILLIG",
     "Country": "LUXEMBOURG"
   },
@@ -29887,6 +30715,12 @@
   },
   {
     "Postcode": 6695,
+    "Street": "MATHIAS BRAUN STROOSS",
+    "Town": "MOMPACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6695,
     "Street": "BRAUN STROOSS (MATHIAS)",
     "Town": "MOMPACH",
     "Country": "LUXEMBOURG"
@@ -29894,6 +30728,12 @@
   {
     "Postcode": 6695,
     "Street": "KLENGELBAACH",
+    "Town": "MOMPACH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6695,
+    "Street": "MATHIAS WIRTZ STROOSS",
     "Town": "MOMPACH",
     "Country": "LUXEMBOURG"
   },
@@ -30487,8 +31327,14 @@
   },
   {
     "Postcode": 6815,
-    "Street": "SOCIETE EUROPEENNE DES SATELLITES",
-    "Town": "GREVENMACHER",
+    "Street": "EUROPEENNE DES SATELLITES (SOCIETE)",
+    "Town": "BETZDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6815,
+    "Street": "SATELLITES (SOCIETE EUROPEENNE DES)",
+    "Town": "BETZDORF",
     "Country": "LUXEMBOURG"
   },
   {
@@ -30505,7 +31351,7 @@
   },
   {
     "Postcode": 6830,
-    "Street": "WECKERSTROOSS",
+    "Street": "WEEKERSTROOSS",
     "Town": "BERBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -30523,13 +31369,13 @@
   },
   {
     "Postcode": 6830,
-    "Street": "ECK (AM)",
+    "Street": "EEK (AM)",
     "Town": "BERBOURG",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6830,
-    "Street": "SCHLASS (UM)",
+    "Street": "SCHLOOSS (UM)",
     "Town": "BERBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -30559,7 +31405,7 @@
   },
   {
     "Postcode": 6831,
-    "Street": "BRUCHERSTROOSS",
+    "Street": "BREICHERSTROOSS",
     "Town": "BERBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -30577,7 +31423,7 @@
   },
   {
     "Postcode": 6831,
-    "Street": "SCHOULSTROOSS",
+    "Street": "SCHULLSTROOSS",
     "Town": "BERBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -30751,8 +31597,8 @@
   },
   {
     "Postcode": 6837,
-    "Street": "BROUCH (BIWER) BROUCH",
-    "Town": "(BIWER)",
+    "Street": "BROUCH (BIWER)",
+    "Town": "BROUCH (BIWER)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -30763,7 +31609,7 @@
   },
   {
     "Postcode": 6839,
-    "Street": "SCHEIDBIERG (UM)",
+    "Street": "SCHEEDBIERG (OP DE)",
     "Town": "LELLIG",
     "Country": "LUXEMBOURG"
   },
@@ -30787,7 +31633,7 @@
   },
   {
     "Postcode": 6839,
-    "Street": "WANGERT (OP DE)",
+    "Street": "WENGERT (OP DE)",
     "Town": "LELLIG",
     "Country": "LUXEMBOURG"
   },
@@ -30925,13 +31771,7 @@
   },
   {
     "Postcode": 6850,
-    "Street": "ALE BERBURGER WEE",
-    "Town": "MANTERNACH",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 6850,
-    "Street": "BERBURGER WEE (ALE)",
+    "Street": "WEE (ALE BERBUERGER)",
     "Town": "MANTERNACH",
     "Country": "LUXEMBOURG"
   },
@@ -30973,13 +31813,13 @@
   },
   {
     "Postcode": 6850,
-    "Street": "GROESTAEN (UM)",
+    "Street": "GROESTEEN (UM)",
     "Town": "MANTERNACH",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6850,
-    "Street": "KIIRCHEWEE",
+    "Street": "KIERCHEWEE",
     "Town": "MANTERNACH",
     "Country": "LUXEMBOURG"
   },
@@ -30997,7 +31837,7 @@
   },
   {
     "Postcode": 6850,
-    "Street": "EER (UM)",
+    "Street": "EIER (UM)",
     "Town": "MANTERNACH",
     "Country": "LUXEMBOURG"
   },
@@ -31051,13 +31891,13 @@
   },
   {
     "Postcode": 6858,
-    "Street": "BESCHELT (OP DER)",
+    "Street": "BESCHELT (UM)",
     "Town": "MUENSCHECKER",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 6858,
-    "Street": "GROESTAEN (OP DE)",
+    "Street": "GROESTEEN (OP DE)",
     "Town": "MUENSCHECKER",
     "Country": "LUXEMBOURG"
   },
@@ -31081,7 +31921,7 @@
   },
   {
     "Postcode": 6858,
-    "Street": "MACHERWEE",
+    "Street": "MAACHERWEE",
     "Town": "MUENSCHECKER",
     "Country": "LUXEMBOURG"
   },
@@ -31154,6 +31994,12 @@
   {
     "Postcode": 6868,
     "Street": "EECHERBRUCH (OP)",
+    "Town": "WECKER",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 6868,
+    "Street": "MILLEN (BEI DER)",
     "Town": "WECKER",
     "Country": "LUXEMBOURG"
   },
@@ -32514,6 +33360,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 7265,
+    "Street": "SPETZLECKEN (AN DE)",
+    "Town": "BERELDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 7268,
     "Street": "MAYRISCH (CITE ALINE)",
     "Town": "BERELDANGE",
@@ -32642,6 +33494,12 @@
   {
     "Postcode": 7307,
     "Street": "SCHWARTZ (RUE GEORGES)",
+    "Town": "STEINSEL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7307,
+    "Street": "SPEISGRENCHEN (AM)",
     "Town": "STEINSEL",
     "Country": "LUXEMBOURG"
   },
@@ -33192,6 +34050,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 7362,
+    "Street": "PETSCHENT (OP)",
+    "Town": "BOFFERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 7363,
     "Street": "IESSEN (OP DEN)",
     "Town": "LORENTZWEILER",
@@ -33474,6 +34338,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 7395,
+    "Street": "HAFF (AM)",
+    "Town": "HUNSDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 7396,
     "Street": "CIMETIERE (RUE DU)",
     "Town": "HUNSDORF",
@@ -33518,6 +34388,12 @@
   {
     "Postcode": 7397,
     "Street": "DOSTERT (RUE FRANCOIS)",
+    "Town": "HUNSDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7397,
+    "Street": "SCHMEDD (AN DER)",
     "Town": "HUNSDORF",
     "Country": "LUXEMBOURG"
   },
@@ -33614,25 +34490,25 @@
   {
     "Postcode": 7415,
     "Street": "ARLON (ROUTE D')",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7415,
     "Street": "BISSEN (RUE DE)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7415,
     "Street": "MANDELBAACH",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7415,
     "Street": "ZEEP (AM)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -33644,61 +34520,61 @@
   {
     "Postcode": 7415,
     "Street": "LAECHER (BRICHER)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7415,
     "Street": "LESCHENT (ENNER)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7416,
     "Street": "ECK (AM)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7416,
     "Street": "VILLAGE (RUE DU)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7416,
     "Street": "OURBECHER (AM)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7417,
     "Street": "BUSCHDORF (RUE DE)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7417,
     "Street": "KNAEPPCHEN (RUE)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7417,
     "Street": "MOULIN (RUE DU)",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7417,
     "Street": "HEID (OP D')",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7417,
     "Street": "HEICHT (OP D')",
-    "Town": "BROUCH (BOEVANGE-SUR-ATTERT)",
+    "Town": "BROUCH (HELPERKNAPP)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -34009,7 +34885,7 @@
   },
   {
     "Postcode": 7431,
-    "Street": "OBERGLABACH",
+    "Street": "PRINCIPALE (RUE)",
     "Town": "OBERGLABACH",
     "Country": "LUXEMBOURG"
   },
@@ -34538,6 +35414,12 @@
   {
     "Postcode": 7470,
     "Street": "KIIRFECHTSWEE",
+    "Town": "SAEUL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7470,
+    "Street": "ZAEREPESCH (AM)",
     "Town": "SAEUL",
     "Country": "LUXEMBOURG"
   },
@@ -36666,6 +37548,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 7738,
+    "Street": "CRUCHTEN (ROUTE DE)",
+    "Town": "COLMAR-PONT",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 7739,
     "Street": "SANG (AN DER)",
     "Town": "COLMAR-BERG",
@@ -36787,6 +37675,18 @@
   },
   {
     "Postcode": 7759,
+    "Street": "ARTISANALE ET COMMERCIALE JAUSCHWIS (ZONE)",
+    "Town": "ROOST",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7759,
+    "Street": "COMMERCIALE JAUSCHWIS (ZONE ARTISANALE ET)",
+    "Town": "ROOST",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7759,
     "Street": "JAUSCHWIS (ZONE ARTISANALE ET COMMERCIALE)",
     "Town": "ROOST",
     "Country": "LUXEMBOURG"
@@ -36801,6 +37701,12 @@
     "Postcode": 7759,
     "Street": "ROST (AUF DEM)",
     "Town": "ESSINGEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7759,
+    "Street": "SEIF (AM)",
+    "Town": "ROOST",
     "Country": "LUXEMBOURG"
   },
   {
@@ -37099,14 +38005,44 @@
   },
   {
     "Postcode": 7795,
-    "Street": "KLENGBUSBIERG (ZONE ARTISANALE ET COMMERCIALE)",
+    "Street": "KLENGBOUSBIERG (ZAC)",
     "Town": "BISSEN",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 7795,
     "Street": "POUKEWISS (OP DER)",
-    "Town": "ROOST",
+    "Town": "BISSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7795,
+    "Street": "INNOVATION (RUE DE L')",
+    "Town": "BISSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7795,
+    "Street": "SPORTS (RUE DES)",
+    "Town": "BISSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7795,
+    "Street": "REVOLUTION INDUSTRIELLE (RUE DE LA 3IEME)",
+    "Town": "BISSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7795,
+    "Street": "INDUSTRIELLE (RUE DE LA 3IEME REVOLUTION)",
+    "Town": "BISSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 7795,
+    "Street": "LOVELACE (RUE ADA)",
+    "Town": "BISSEN",
     "Country": "LUXEMBOURG"
   },
   {
@@ -37716,6 +38652,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8059,
+    "Street": "HUESELT (FERME DE)",
+    "Town": "BERTRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8060,
     "Street": "CONCORDE",
     "Town": "BERTRANGE",
@@ -38088,6 +39030,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8098,
+    "Street": "MARGUERITE THOMAS-CLEMENT (RUE)",
+    "Town": "STRASSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8099,
     "Street": "PATTON (RUE GENERAL GEORGE S.)",
     "Town": "STRASSEN",
@@ -38102,6 +39050,18 @@
   {
     "Postcode": 8110,
     "Street": "MOLITOR-PEFFER (RUE DR. MARIE-PAULE)",
+    "Town": "STRASSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8111,
+    "Street": "SCILLAS (RUE DES)",
+    "Town": "STRASSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8112,
+    "Street": "ORCHIS (RUE DES)",
     "Town": "STRASSEN",
     "Country": "LUXEMBOURG"
   },
@@ -38304,6 +39264,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8143,
+    "Street": "GEWAENNCHEN (RUE)",
+    "Town": "BRIDEL",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8145,
     "Street": "PINS (RUE DES)",
     "Town": "BRIDEL",
@@ -38390,6 +39356,12 @@
   {
     "Postcode": 8160,
     "Street": "PERRANG (RUE MATHIAS)",
+    "Town": "BRIDEL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8161,
+    "Street": "FLAMO (IMPASSE)",
     "Town": "BRIDEL",
     "Country": "LUXEMBOURG"
   },
@@ -39144,6 +40116,18 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8278,
+    "Street": "FOURNELLE (RUE HELENE)",
+    "Town": "HOLZEM",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8278,
+    "Street": "THEIN (PLACE EMILE)",
+    "Town": "HOLZEM",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8279,
     "Street": "CAPELLEN (ROUTE DE)",
     "Town": "HOLZEM",
@@ -39445,19 +40429,13 @@
   },
   {
     "Postcode": 8309,
-    "Street": "AIRE DE CAPELLEN (AUTOROUTE)",
+    "Street": "AIRE DE CAPELLEN",
     "Town": "HOLZEM",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8309,
-    "Street": "DE CAPELLEN (AUTOROUTE AIRE)",
-    "Town": "HOLZEM",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 8309,
-    "Street": "CAPELLEN (AUTOROUTE AIRE DE)",
+    "Street": "CAPELLEN (AIRE DE)",
     "Town": "HOLZEM",
     "Country": "LUXEMBOURG"
   },
@@ -39780,6 +40758,42 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8346,
+    "Street": "LOOSE (RUE GUSTAVE)",
+    "Town": "GRASS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8346,
+    "Street": "ENGEL (RUE DR ELVIRE)",
+    "Town": "GRASS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8347,
+    "Street": "SCHRAINER (BEIM)",
+    "Town": "HAGEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8348,
+    "Street": "MOES (RUE RENE)",
+    "Town": "CAPELLEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8348,
+    "Street": "GLUCK (RUE PAUL)",
+    "Town": "CAPELLEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8348,
+    "Street": "NOCKELS (RUE FRANCOIS)",
+    "Town": "CAPELLEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8350,
     "Street": "MERZEL (AN DER)",
     "Town": "GARNICH",
@@ -39848,6 +40862,24 @@
   {
     "Postcode": 8352,
     "Street": "PFAFFENTHAL (RUE)",
+    "Town": "DAHLEM",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8352,
+    "Street": "BEEMCHEN (BEIM)",
+    "Town": "DAHLEM",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8352,
+    "Street": "PAD (UM)",
+    "Town": "DAHLEM",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8352,
+    "Street": "BOMMERT (OP)",
     "Town": "DAHLEM",
     "Country": "LUXEMBOURG"
   },
@@ -40152,6 +41184,18 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8362,
+    "Street": "A WONESCH",
+    "Town": "GRASS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8362,
+    "Street": "WONESCH (A)",
+    "Town": "GRASS",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8363,
     "Street": "TENTENERSTROOSS",
     "Town": "GREISCH",
@@ -40226,6 +41270,12 @@
   {
     "Postcode": 8365,
     "Street": "BELLE-VUE (CITE)",
+    "Town": "HAGEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8365,
+    "Street": "LOERHAFF",
     "Town": "HAGEN",
     "Country": "LUXEMBOURG"
   },
@@ -40478,6 +41528,12 @@
   {
     "Postcode": 8374,
     "Street": "BEINERTCHEN (CITE UM)",
+    "Town": "HOBSCHEID",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8374,
+    "Street": "GRENZGAART (AM)",
     "Town": "HOBSCHEID",
     "Country": "LUXEMBOURG"
   },
@@ -40800,6 +41856,18 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8389,
+    "Street": "KIEFFER (RUE CHARLES)",
+    "Town": "GRASS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8389,
+    "Street": "ARENDT (RUE LUSS)",
+    "Town": "GRASS",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8390,
     "Street": "KEHLEN (RUE DE)",
     "Town": "NOSPELT",
@@ -41040,6 +42108,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8395,
+    "Street": "WELLESCHLEID",
+    "Town": "SEPTFONTAINES",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8396,
     "Street": "MIERSCHERSTROOSS",
     "Town": "SEPTFONTAINES",
@@ -41078,49 +42152,49 @@
   {
     "Postcode": 8398,
     "Street": "KIERCHEWEE",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "HELZERBIERG",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "KARESCHBIERG",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "NOUSPELTERSTROOSS",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "MIERSCHERSTROOSS",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "HEEDEFELD",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "HAFF (AM)",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8398,
     "Street": "ROUSEN (OP DE)",
-    "Town": "ROODT (SEPTFONTAINES)",
+    "Town": "ROODT (HABSCHT)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -41210,6 +42284,18 @@
   {
     "Postcode": 8415,
     "Street": "HERRENFELD (RUE)",
+    "Town": "STEINFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8416,
+    "Street": "ERMESINDE (RUE)",
+    "Town": "STEINFORT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8416,
+    "Street": "KREIMER (BEIM)",
     "Town": "STEINFORT",
     "Country": "LUXEMBOURG"
   },
@@ -41611,6 +42697,12 @@
   },
   {
     "Postcode": 8506,
+    "Street": "ACTIVITES ECONOMIQUES SOLUPLA (ZONE D')",
+    "Town": "REDANGE-SUR-ATTERT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8506,
     "Street": "SOLUPLA (ZONE D'ACTIVITES ECONOMIQUES)",
     "Town": "REDANGE-SUR-ATTERT",
     "Country": "LUXEMBOURG"
@@ -41761,6 +42853,12 @@
   },
   {
     "Postcode": 8509,
+    "Street": "ACTIVITE AUF RINER (ZONE D')",
+    "Town": "REDANGE-SUR-ATTERT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8509,
     "Street": "RINER (ZONE D'ACTIVITE AUF)",
     "Town": "REDANGE-SUR-ATTERT",
     "Country": "LUXEMBOURG"
@@ -41839,6 +42937,12 @@
   },
   {
     "Postcode": 8522,
+    "Street": "HEIDCHEN",
+    "Town": "BECKERICH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8522,
     "Street": "JUCK",
     "Town": "BECKERICH",
     "Country": "LUXEMBOURG"
@@ -41846,6 +42950,12 @@
   {
     "Postcode": 8522,
     "Street": "LAAS",
+    "Town": "BECKERICH",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8522,
+    "Street": "SCHLESSELFELD",
     "Town": "BECKERICH",
     "Country": "LUXEMBOURG"
   },
@@ -42074,6 +43184,12 @@
   {
     "Postcode": 8530,
     "Street": "MILLEFELD (UM)",
+    "Town": "ELL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8530,
+    "Street": "MILLEWISS",
     "Town": "ELL",
     "Country": "LUXEMBOURG"
   },
@@ -42427,7 +43543,7 @@
   },
   {
     "Postcode": 8542,
-    "Street": "LANNENERBERG (RUE DU)",
+    "Street": "RAUMESCHT (A)",
     "Town": "LANNEN",
     "Country": "LUXEMBOURG"
   },
@@ -42470,6 +43586,12 @@
   {
     "Postcode": 8542,
     "Street": "LANNENERBERG",
+    "Town": "LANNEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8542,
+    "Street": "LANNENERBERG (RUE DU)",
     "Town": "LANNEN",
     "Country": "LUXEMBOURG"
   },
@@ -43428,6 +44550,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8706,
+    "Street": "MILLENHAFF (AM)",
+    "Town": "USELDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8707,
     "Street": "REESESCHBIERG",
     "Town": "USELDANGE",
@@ -43572,6 +44700,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8710,
+    "Street": "UECHT (AN DER)",
+    "Town": "BOEVANGE-SUR-ATTERT",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8711,
     "Street": "HACKIN (RUE JOSEPH)",
     "Town": "BOEVANGE-SUR-ATTERT",
@@ -43585,13 +44719,13 @@
   },
   {
     "Postcode": 8711,
-    "Street": "AM LETSCHERT",
+    "Street": "LETSCHERT (AM)",
     "Town": "BOEVANGE-SUR-ATTERT",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 8711,
-    "Street": "LETSCHERT (AM)",
+    "Street": "WALD (BEIM)",
     "Town": "BOEVANGE-SUR-ATTERT",
     "Country": "LUXEMBOURG"
   },
@@ -43766,7 +44900,7 @@
   {
     "Postcode": 8805,
     "Street": "GOELT",
-    "Town": "RAMBROUCH",
+    "Town": "HOSTERT (RAMBROUCH)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -44078,6 +45212,12 @@
   {
     "Postcode": 8818,
     "Street": "BRATTERT (RUE DE)",
+    "Town": "GREVELS",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 8818,
+    "Street": "STROOSSS (WALER)",
     "Town": "GREVELS",
     "Country": "LUXEMBOURG"
   },
@@ -44526,6 +45666,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 8835,
+    "Street": "GEWAN (AN DER)",
+    "Town": "FOLSCHETTE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 8838,
     "Street": "CHAMPS (RUE DES)",
     "Town": "WAHL",
@@ -44551,7 +45697,7 @@
   },
   {
     "Postcode": 8838,
-    "Street": "KINIGSHAFF (RUE)",
+    "Street": "KINNIKSHAFF (RUE)",
     "Town": "WAHL",
     "Country": "LUXEMBOURG"
   },
@@ -44839,7 +45985,7 @@
   },
   {
     "Postcode": 9043,
-    "Street": "FALLIZE (RUE MGR)",
+    "Street": "BAACH (AN DER)",
     "Town": "ETTELBRUCK",
     "Country": "LUXEMBOURG"
   },
@@ -44988,6 +46134,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 9057,
+    "Street": "KRAUS (RUE PIERRE)",
+    "Town": "ETTELBRUCK",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 9060,
     "Street": "LIBERATION (PLACE DE LA)",
     "Town": "ETTELBRUCK",
@@ -45102,6 +46254,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 9079,
+    "Street": "SIMON (RUE EUGENE)",
+    "Town": "ETTELBRUCK",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 9080,
     "Street": "SALENTINY (AVENUE LUCIEN)",
     "Town": "ETTELBRUCK",
@@ -45128,6 +46286,12 @@
   {
     "Postcode": 9083,
     "Street": "STACKELS (RUE A)",
+    "Town": "ETTELBRUCK",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9083,
+    "Street": "CIMETIERE (RUE DU)",
     "Town": "ETTELBRUCK",
     "Country": "LUXEMBOURG"
   },
@@ -46195,6 +47359,12 @@
   },
   {
     "Postcode": 9157,
+    "Street": "HEED (OP DER)",
+    "Town": "HEIDERSCHEID",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9157,
     "Street": "NEIEWEE",
     "Town": "HEIDERSCHEID",
     "Country": "LUXEMBOURG"
@@ -46399,8 +47569,8 @@
   },
   {
     "Postcode": 9164,
-    "Street": "BUURSCHTER MILLEN BOURSCHEID",
-    "Town": "MOULIN",
+    "Street": "BUURSCHTER MILLEN",
+    "Town": "BOURSCHEID MOULIN",
     "Country": "LUXEMBOURG"
   },
   {
@@ -47514,6 +48684,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 9188,
+    "Street": "SANDKAULEN (OP DE)",
+    "Town": "VICHTEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 9189,
     "Street": "HIEL (RUE)",
     "Town": "VICHTEN",
@@ -47564,6 +48740,12 @@
   {
     "Postcode": 9190,
     "Street": "PRINCIPALE (RUE)",
+    "Town": "VICHTEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9190,
+    "Street": "VIICHTBAACH",
     "Town": "VICHTEN",
     "Country": "LUXEMBOURG"
   },
@@ -48211,6 +49393,12 @@
   },
   {
     "Postcode": 9340,
+    "Street": "INDUSTRIELLE UM HOLZ (ZONE)",
+    "Town": "FLEBOUR",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9340,
     "Street": "HOLZ (ZONE INDUSTRIELLE UM)",
     "Town": "FLEBOUR",
     "Country": "LUXEMBOURG"
@@ -48313,7 +49501,7 @@
   },
   {
     "Postcode": 9353,
-    "Street": "FRESCHEGAASS",
+    "Street": "FRAESCHEGAASS",
     "Town": "BETTENDORF",
     "Country": "LUXEMBOURG"
   },
@@ -48373,7 +49561,7 @@
   },
   {
     "Postcode": 9354,
-    "Street": "MORGENFLIESGEN (FERME)",
+    "Street": "MOIENFLISSEN",
     "Town": "BETTENDORF",
     "Country": "LUXEMBOURG"
   },
@@ -48517,7 +49705,7 @@
   },
   {
     "Postcode": 9360,
-    "Street": "LAANGWISS",
+    "Street": "LAANGWISS (OP DER)",
     "Town": "BRANDENBOURG",
     "Country": "LUXEMBOURG"
   },
@@ -48852,6 +50040,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 9374,
+    "Street": "KREIWENKEL",
+    "Town": "GILSDORF",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 9375,
     "Street": "BECHEL (RUE)",
     "Town": "GRALINGEN",
@@ -48975,6 +50169,12 @@
     "Postcode": 9378,
     "Street": "GEISSECK",
     "Town": "HOSCHEID",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9378,
+    "Street": "HAMMWEE",
+    "Town": "KEPPENHAFF",
     "Country": "LUXEMBOURG"
   },
   {
@@ -49993,44 +51193,44 @@
   },
   {
     "Postcode": 9466,
-    "Street": "BRAEDELT (RUE) WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "BRAEDELT (RUE)",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9466,
-    "Street": "HOHL (RUE) WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "HOHL (RUE)",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9466,
-    "Street": "HOSINGEN (RUE DE) WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "HOSINGEN (RUE DE)",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9466,
-    "Street": "KUELEBIERG WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "KUELEBIERG",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9466,
-    "Street": "PRINCIPALE (RUE) WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "PRINCIPALE (RUE)",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9466,
-    "Street": "WAHLHAUSEN (ROUTE DE) WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "WAHLHAUSEN (ROUTE DE)",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9466,
-    "Street": "BRAETELT (CITE) WEILER",
-    "Town": "(PUTSCHEID)",
+    "Street": "BRAETELT (CITE)",
+    "Town": "WEILER (PUTSCHEID)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -50077,7 +51277,7 @@
   },
   {
     "Postcode": 9512,
-    "Street": "BATZENDELT",
+    "Street": "GROWELTERWEE",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
@@ -50196,6 +51396,12 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 9531,
+    "Street": "BATZENDELL (OP)",
+    "Town": "WILTZ",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 9532,
     "Street": "INDEPENDANCE (RUE DE L')",
     "Town": "WILTZ",
@@ -50228,12 +51434,6 @@
   {
     "Postcode": 9537,
     "Street": "LAMBERT (RUE CHARLES)",
-    "Town": "WILTZ",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 9538,
-    "Street": "MONTAGNE (RUE DE LA)",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
@@ -50376,20 +51576,20 @@
     "Country": "LUXEMBOURG"
   },
   {
-    "Postcode": 9559,
-    "Street": "INDUSTRIELLE WILTZ (ZONE)",
-    "Town": "WILTZ",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 9559,
-    "Street": "WILTZ (ZONE INDUSTRIELLE)",
+    "Postcode": 9560,
+    "Street": "SEPTEMBRE (RUE DU DIX)",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9560,
-    "Street": "SEPTEMBRE (RUE DU DIX)",
+    "Street": "FABRIKSWEE",
+    "Town": "WILTZ",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9565,
+    "Street": "HUNDSBURN (BEIM)",
     "Town": "WILTZ",
     "Country": "LUXEMBOURG"
   },
@@ -50581,6 +51781,12 @@
   },
   {
     "Postcode": 9633,
+    "Street": "BECH (AN DER)",
+    "Town": "BASCHLEIDEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9633,
     "Street": "FLEBOUR",
     "Town": "BOULAIDE",
     "Country": "LUXEMBOURG"
@@ -50743,32 +51949,32 @@
   },
   {
     "Postcode": 9637,
-    "Street": "PAESCH (AM GRINGE) BOCKHOLTZ",
-    "Town": "(GOESDORF)",
+    "Street": "PAESCH (AM GRINGE)",
+    "Town": "BOCKHOLTZ (GOESDORF)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9637,
-    "Street": "DUERF (AM) BOCKHOLTZ",
-    "Town": "(GOESDORF)",
+    "Street": "DUERF (AM)",
+    "Town": "BOCKHOLTZ (GOESDORF)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9637,
-    "Street": "KIIRCHEWEE BOCKHOLTZ",
-    "Town": "(GOESDORF)",
+    "Street": "KIIRCHEWEE",
+    "Town": "BOCKHOLTZ (GOESDORF)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9637,
-    "Street": "WEE (AM AALE) BOCKHOLTZ",
-    "Town": "(GOESDORF)",
+    "Street": "WEE (AM AALE)",
+    "Town": "BOCKHOLTZ (GOESDORF)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9637,
-    "Street": "MILLEN (OP DER) BOCKHOLTZ",
-    "Town": "(GOESDORF)",
+    "Street": "MILLEN (OP DER)",
+    "Town": "BOCKHOLTZ (GOESDORF)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -50845,6 +52051,12 @@
   },
   {
     "Postcode": 9639,
+    "Street": "KUREND (CITE)",
+    "Town": "BOULAIDE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9639,
     "Street": "ELBER (CITE AN)",
     "Town": "BOULAIDE",
     "Country": "LUXEMBOURG"
@@ -50912,6 +52124,12 @@
   {
     "Postcode": 9640,
     "Street": "MOULIN (RUE DU)",
+    "Town": "BOULAIDE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9640,
+    "Street": "BIGONVILLE (MOULIN DE)",
     "Town": "BOULAIDE",
     "Country": "LUXEMBOURG"
   },
@@ -51289,7 +52507,7 @@
   },
   {
     "Postcode": 9650,
-    "Street": "BOURGFRIED",
+    "Street": "BUERFELT",
     "Town": "INSENBORN",
     "Country": "LUXEMBOURG"
   },
@@ -51404,6 +52622,12 @@
   {
     "Postcode": 9651,
     "Street": "HEISTEN",
+    "Town": "ESCHWEILER (WILTZ)",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9651,
+    "Street": "BRECK (AN DER)",
     "Town": "ESCHWEILER (WILTZ)",
     "Country": "LUXEMBOURG"
   },
@@ -51685,13 +52909,7 @@
   },
   {
     "Postcode": 9660,
-    "Street": "NEUHOF",
-    "Town": "INSENBORN",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 9660,
-    "Street": "BONNAL",
+    "Street": "NEIHAFF",
     "Town": "INSENBORN",
     "Country": "LUXEMBOURG"
   },
@@ -51722,12 +52940,78 @@
   {
     "Postcode": 9660,
     "Street": "LELZERKNAEPPCHEN (UM)",
-    "Town": "INSENBORN",
+    "Town": "BONNAL",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9660,
     "Street": "BAAKS (A)",
+    "Town": "BONNAL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "BOMMEL (UM)",
+    "Town": "BONNAL",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "DOLLEFS (AN)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "HEELT (AN DER)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "BOMMLERWEE (AM)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "SEI (UM)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "GAASS (AN DER)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "KNUPP (UM)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "NEIEWEE",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "KEILERT (AM)",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "FUUSSEFELD",
+    "Town": "INSENBORN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9660,
+    "Street": "SCHAARZREECH",
     "Town": "INSENBORN",
     "Country": "LUXEMBOURG"
   },
@@ -51966,8 +53250,26 @@
     "Country": "LUXEMBOURG"
   },
   {
+    "Postcode": 9665,
+    "Street": "HUELEWEE",
+    "Town": "LIEFRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9665,
+    "Street": "SCHALKEPAESCH",
+    "Town": "LIEFRANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
     "Postcode": 9666,
-    "Street": "LULTZHAUSEN",
+    "Street": "DRIICHT (AN DER)",
+    "Town": "LULTZHAUSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9666,
+    "Street": "SEIWEE",
     "Town": "LULTZHAUSEN",
     "Country": "LUXEMBOURG"
   },
@@ -51997,26 +53299,26 @@
   },
   {
     "Postcode": 9669,
-    "Street": "DUNCKROTH MECHER (LAC DE LA HAUTE",
-    "Town": "SURE)",
+    "Street": "DUNCKROTH",
+    "Town": "MECHER (LAC DE LA HAUTE SURE)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9669,
-    "Street": "DUERFSTROOSS MECHER (LAC DE LA HAUTE",
-    "Town": "SURE)",
+    "Street": "DUERFSTROOSS",
+    "Town": "MECHER (LAC DE LA HAUTE SURE)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9669,
-    "Street": "DENKERT MECHER (LAC DE LA HAUTE",
-    "Town": "SURE)",
+    "Street": "DENKERT",
+    "Town": "MECHER (LAC DE LA HAUTE SURE)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9669,
-    "Street": "KNAPP (UM) MECHER (LAC DE LA HAUTE",
-    "Town": "SURE)",
+    "Street": "KNAPP (UM)",
+    "Town": "MECHER (LAC DE LA HAUTE SURE)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -52069,13 +53371,25 @@
   },
   {
     "Postcode": 9671,
-    "Street": "NEUNHAUSEN",
+    "Street": "HAAPTSTROOSS",
     "Town": "NEUNHAUSEN",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9671,
     "Street": "DELT (AN DER)",
+    "Town": "NEUNHAUSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9671,
+    "Street": "HUERT (AN DER)",
+    "Town": "NEUNHAUSEN",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9671,
+    "Street": "ECK (AM)",
     "Town": "NEUNHAUSEN",
     "Country": "LUXEMBOURG"
   },
@@ -52579,12 +53893,6 @@
   },
   {
     "Postcode": 9707,
-    "Street": "CLEVELAND (RUE)",
-    "Town": "CLERVAUX",
-    "Country": "LUXEMBOURG"
-  },
-  {
-    "Postcode": 9707,
     "Street": "GARE (RUE DE LA)",
     "Town": "CLERVAUX",
     "Country": "LUXEMBOURG"
@@ -52598,6 +53906,18 @@
   {
     "Postcode": 9707,
     "Street": "GARE (PLACE DE LA)",
+    "Town": "CLERVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9707,
+    "Street": "STEICHEN (RUE EDWARD)",
+    "Town": "CLERVAUX",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9707,
+    "Street": "LORETTO (RUE)",
     "Town": "CLERVAUX",
     "Country": "LUXEMBOURG"
   },
@@ -52933,7 +54253,7 @@
   },
   {
     "Postcode": 9748,
-    "Street": "KLECK",
+    "Street": "KLECK (RUE)",
     "Town": "ESELBORN",
     "Country": "LUXEMBOURG"
   },
@@ -52975,38 +54295,38 @@
   },
   {
     "Postcode": 9749,
-    "Street": "GIAELLEWEE FISCHBACH",
-    "Town": "(CLERVAUX)",
+    "Street": "GIAELLEWEE",
+    "Town": "FISCHBACH (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9749,
-    "Street": "HAUPTSTROOSS FISCHBACH",
-    "Town": "(CLERVAUX)",
+    "Street": "HAUPTSTROOSS",
+    "Town": "FISCHBACH (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9749,
-    "Street": "HINNICK FISCHBACH",
-    "Town": "(CLERVAUX)",
+    "Street": "HINNICK",
+    "Town": "FISCHBACH (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9749,
-    "Street": "DUARREFSTROOSS FISCHBACH",
-    "Town": "(CLERVAUX)",
+    "Street": "DUARREFSTROOSS",
+    "Town": "FISCHBACH (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9749,
-    "Street": "KNUPP FISCHBACH",
-    "Town": "(CLERVAUX)",
+    "Street": "KNUPP",
+    "Town": "FISCHBACH (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9749,
-    "Street": "KIERFECHTSTROOSS FISCHBACH",
-    "Town": "(CLERVAUX)",
+    "Street": "KIERFECHTSTROOSS",
+    "Town": "FISCHBACH (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -53017,7 +54337,7 @@
   },
   {
     "Postcode": 9751,
-    "Street": "DRICHT",
+    "Street": "DRIICHT",
     "Town": "GRINDHAUSEN",
     "Country": "LUXEMBOURG"
   },
@@ -53185,8 +54505,8 @@
   },
   {
     "Postcode": 9756,
-    "Street": "KAESFURT (CLERVAUX) KAESFURT",
-    "Town": "(CLERVAUX)",
+    "Street": "KAESFURT (CLERVAUX)",
+    "Town": "KAESFURT (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -53221,20 +54541,20 @@
   },
   {
     "Postcode": 9758,
-    "Street": "MOULIN DE KALBORN MOULIN DE",
-    "Town": "KALBORN",
+    "Street": "MOULIN DE KALBORN",
+    "Town": "MOULIN DE KALBORN",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9758,
-    "Street": "KALBORN (MOULIN DE) MOULIN DE",
-    "Town": "KALBORN",
+    "Street": "KALBORN (MOULIN DE)",
+    "Town": "MOULIN DE KALBORN",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9759,
-    "Street": "KIERELSHOF",
-    "Town": "WEICHERDANGE",
+    "Street": "KIRELSHOF",
+    "Town": "KIRELSHOF",
     "Country": "LUXEMBOURG"
   },
   {
@@ -53425,7 +54745,7 @@
   },
   {
     "Postcode": 9764,
-    "Street": "SCHMITZBONGERT (A)",
+    "Street": "SCHMITZBONGERT",
     "Town": "MARNACH",
     "Country": "LUXEMBOURG"
   },
@@ -53467,20 +54787,20 @@
   },
   {
     "Postcode": 9765,
-    "Street": "MECHER (CLERVAUX) MECHER",
-    "Town": "(CLERVAUX)",
+    "Street": "MECHER (CLERVAUX)",
+    "Town": "MECHER (CLERVAUX)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9765,
-    "Street": "MOULIN WIRTGEN (ANCIEN) MECHER",
-    "Town": "(CLERVAUX)",
+    "Street": "WIRTGENSMUEHLE",
+    "Town": "WIRTGENSMUEHLE",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9765,
-    "Street": "WIRTGEN (ANCIEN MOULIN) MECHER",
-    "Town": "(CLERVAUX)",
+    "Street": "KAASPELTERHOF",
+    "Town": "KAASPELTERHOF",
     "Country": "LUXEMBOURG"
   },
   {
@@ -53647,13 +54967,13 @@
   },
   {
     "Postcode": 9774,
-    "Street": "KAEPPCHEN (OM AALE)",
+    "Street": "KAEPPCHEN (OM ALE)",
     "Town": "URSPELT",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9774,
-    "Street": "HEPPERDANGER STROOSS",
+    "Street": "HEPPERDANGERSTROOSS",
     "Town": "URSPELT",
     "Country": "LUXEMBOURG"
   },
@@ -53683,7 +55003,61 @@
   },
   {
     "Postcode": 9775,
-    "Street": "WEICHERDANGE",
+    "Street": "BOUCH (OP DER)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "BOURG STROOSS (TONY)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "GAESSELCHEN (AN DER)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "KAPELL (BEI DER)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "BRILL WEE",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "BOURG WEE (COLONEL DAMIEN)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "LANN (ENNERT DER)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "KRIER WEE (ERNEST)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "VINZENZ GAASS (HL.)",
+    "Town": "WEICHERDANGE",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9775,
+    "Street": "ZANEN STROOSS (JEAN PIERRE)",
     "Town": "WEICHERDANGE",
     "Country": "LUXEMBOURG"
   },
@@ -53707,7 +55081,7 @@
   },
   {
     "Postcode": 9776,
-    "Street": "PENSCHERBERG (CITE)",
+    "Street": "PENSCHERBIERG (CITE)",
     "Town": "WILWERWILTZ",
     "Country": "LUXEMBOURG"
   },
@@ -53965,38 +55339,38 @@
   },
   {
     "Postcode": 9830,
-    "Street": "ENNESCHT DUERF BOCKHOLTZ (PARC",
-    "Town": "HOSINGEN)",
+    "Street": "ENNESCHT DUERF",
+    "Town": "BOCKHOLTZ (PARC HOSINGEN)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9830,
-    "Street": "DUERF (ENNESCHT) BOCKHOLTZ (PARC",
-    "Town": "HOSINGEN)",
+    "Street": "DUERF (ENNESCHT)",
+    "Town": "BOCKHOLTZ (PARC HOSINGEN)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9830,
-    "Street": "EWESCHT DUERF BOCKHOLTZ (PARC",
-    "Town": "HOSINGEN)",
+    "Street": "EWESCHT DUERF",
+    "Town": "BOCKHOLTZ (PARC HOSINGEN)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9830,
-    "Street": "DUERF (EWESCHT) BOCKHOLTZ (PARC",
-    "Town": "HOSINGEN)",
+    "Street": "DUERF (EWESCHT)",
+    "Town": "BOCKHOLTZ (PARC HOSINGEN)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9830,
-    "Street": "HAAPTSTROOSS BOCKHOLTZ (PARC",
-    "Town": "HOSINGEN)",
+    "Street": "HAAPTSTROOSS",
+    "Town": "BOCKHOLTZ (PARC HOSINGEN)",
     "Country": "LUXEMBOURG"
   },
   {
     "Postcode": 9830,
-    "Street": "KAZEBESCH (BEIM) BOCKHOLTZ (PARC",
-    "Town": "HOSINGEN)",
+    "Street": "KAZEBESCH (BEIM)",
+    "Town": "BOCKHOLTZ (PARC HOSINGEN)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -54134,6 +55508,18 @@
   {
     "Postcode": 9835,
     "Street": "SCHOULWEE",
+    "Town": "HOSCHEID-DICKT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9835,
+    "Street": "PETZ (BEIM)",
+    "Town": "HOSCHEID-DICKT",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9835,
+    "Street": "HENKESBESCH",
     "Town": "HOSCHEID-DICKT",
     "Country": "LUXEMBOURG"
   },
@@ -54410,6 +55796,12 @@
   {
     "Postcode": 9906,
     "Street": "INDUSTRIELLE GARE (ZONE)",
+    "Town": "TROISVIERGES",
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Postcode": 9906,
+    "Street": "GARE (ZONE INDUSTRIELLE)",
     "Town": "TROISVIERGES",
     "Country": "LUXEMBOURG"
   },
@@ -55051,8 +56443,8 @@
   },
   {
     "Postcode": 9966,
-    "Street": "KISFURT KAESFURT",
-    "Town": "(WEISWAMPACH)",
+    "Street": "KISFURT",
+    "Town": "KAESFURT (WEISWAMPACH)",
     "Country": "LUXEMBOURG"
   },
   {
@@ -55267,8 +56659,8 @@
   },
   {
     "Postcode": 9982,
-    "Street": "WEILER (WINCRANGE) WEILER",
-    "Town": "(WINCRANGE)",
+    "Street": "WEILER (WINCRANGE)",
+    "Town": "WEILER (WINCRANGE)",
     "Country": "LUXEMBOURG"
   },
   {
